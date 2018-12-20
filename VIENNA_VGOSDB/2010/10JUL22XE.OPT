@@ -1,0 +1,14 @@
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS: 3
+ZELENCHK  55399.98
+ZELENCHK  55400.246331
+ZELENCHK  55400.51
+STATIONS TO BE EXCLUDED: 2
+BADARY    55400.237517-55400.243299
+ZELENCHK  55400.655512-55401
+# Tobias Nilsson, Aug 6, 2010
+
+# Name: David Mayer
+# Date: 2016-01-06
+# Additional analysis comments (optional): exclude some time spans to get a better solution

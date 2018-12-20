@@ -1,0 +1,12 @@
+CLOCK BREAKS: 2
+FORTLEZA  55896.901053
+FORTLEZA  55897.448906
+CLOCK REFERENCE:
+WETTZELL
+
+STATIONS TO BE EXCLUDED: 0
+KATH12M 
+FORTLEZA
+
+#Claudia Tierno Ros, 16 Dec. 2011
+#Lucia Plank, 10 Aug 2015: no need to exclude stations; two clock breaks added

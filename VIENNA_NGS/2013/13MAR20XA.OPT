@@ -1,0 +1,39 @@
+CLOCK BREAKS: 0
+STATIONS TO BE EXCLUDED: 2
+NOTO    
+CRIMEA  
+BASELINES TO BE EXCLUDED: 0
+SOURCES TO BE EXCLUDED: 0 
+0955+476
+0322+222
+1351-018
+1124-186
+CTA26
+
+# chi-squared of main solution will be reduced to approx. 2.4
+
+# created by Armin, 29.10.2013
+
+# Caroline Schoenberger, 2016/01/18
+# exclude sources
+
+
+# example
+# ============================
+# CLOCK REFERENCE:
+# WETTZELL
+#
+# CLOCK BREAKS: 2
+# BADARY    55454.4
+# WETTZELL  55372.369
+#
+# STATIONS TO BE EXCLUDED: 1
+# MATERA  
+#
+# BASELINES TO BE EXCLUDED: 3
+# WETTZELL  ZELENCHK
+# SVETLOE   ZELENCHK
+# BADARY    ZELENCHK
+#
+# SOURCES TO BE EXCLUDED: 1
+# 1936+095

@@ -1,0 +1,13 @@
+CLOCK REFERENCE:
+HOBART26
+CLOCK BREAKS: 0
+STATIONS TO BE EXCLUDED:   1
+KOKEE  
+SOURCES TO BE EXCLUDED: 0
+
+# outliers
+# Hana Spicakova  20 September 2010
+
+# Name: David Mayer
+# Date: 2016-01-06
+# Additional analysis comments (optional): removing KOKEE creates a reasonable solution

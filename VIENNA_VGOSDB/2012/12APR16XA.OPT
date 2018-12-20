@@ -1,0 +1,13 @@
+CLOCK REFERENCE:
+WETTZELL
+STATIONS TO BE EXCLUDED: 0
+YARRA12M
+CLOCK BREAKS: 3
+KATH12M   56034.234329
+YARRA12M  56034.317575
+KATH12M   56034.535168
+
+# 2 May 2012 Sigrid Boehm
+# 13 June 2013 Hana Krasna
+# outliers
+# 14 May 2014 Lucia: Yarra included, additional clock breaks

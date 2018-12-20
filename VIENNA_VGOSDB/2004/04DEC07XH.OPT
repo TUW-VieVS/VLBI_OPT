@@ -1,0 +1,12 @@
+CLOCK BREAKS: 0
+CLOCK REFERENCE:
+KASHIM34
+STATIONS TO BE EXCLUDED: 2
+GGAO7108
+URUMQI    53346.912286-53347.216250
+# Tobias Nilsson, April 7, 2010
+# Special parmametrization: urumqi needs loose clock constraints.
+
+# Name: David Mayer
+# Date: 2016-01-06
+# Additional analysis comments (optional): cut the worst part of URUMQI

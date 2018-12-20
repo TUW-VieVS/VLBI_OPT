@@ -1,0 +1,17 @@
+CLOCK REFERENCE:
+KOKEE   
+CLOCK BREAKS: 1
+BADARY    55414.3
+NO CABLE CAL: 3
+BADARY  
+HOBART26 
+KOKEE   
+STATIONS TO BE EXCLUDED: 1
+TIGOCONC
+
+# TObias Nilsson, 19 AUg, 2010
+
+# Name: David Mayer
+# Date: 2016-12-06
+# Additional analysis comments (optional): TIGO is responsible for huge estimates; no cable cal because manual pcal was used
+

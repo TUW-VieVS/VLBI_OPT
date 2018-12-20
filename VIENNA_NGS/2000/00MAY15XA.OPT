@@ -1,0 +1,8 @@
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS: 3
+ONSALA60  51679.68
+YEBES     51679.97
+YEBES     51680.114
+# Some outliers also need to be removed
+# TObias Nilsson, 19 Nov, 2010 

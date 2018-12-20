@@ -1,0 +1,9 @@
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS:   1
+KOKEE     52957.025000
+STATIONS TO BE EXCLUDED:   0
+# A. Pany, 12 April 2010
+# in R. Heinkelmanns opt-files, Kokee was excluded. After introducing the clock break the station still causes a few
+# outliers but chi squared is as small as 0.84.
+

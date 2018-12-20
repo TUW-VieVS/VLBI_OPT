@@ -1,0 +1,11 @@
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS: 2
+GGAO7108  52829.959392
+NYALES20  52830.532000
+STATIONS TO BE EXCLUDED:   0
+
+# A. Pany, 12 April 2010
+# stations 2 and 3 have a low number of observations and cause several outliers
+# chi squared is ok, however
+# Caroline Schoenberger, 2016/02/29
