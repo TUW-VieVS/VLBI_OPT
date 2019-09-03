@@ -1,18 +1,15 @@
-CLOCK REFERENCE:
-WETTZELL
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
-VERAMZSW
-ISHIOKA
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Helene Wolf
-# Date: 16-07-2019
+# Name: Andreas Hellerschmied
+# Date: 2019-08-28
 # Additional analysis comments (optional):
-
+# - Datum issue: 
+#    - NNT/NNR applied on all stations, although only Westford has ITRF214 coordinates
 
 # example
 # =============================================
