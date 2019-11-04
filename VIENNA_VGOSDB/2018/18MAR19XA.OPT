@@ -1,18 +1,15 @@
-CLOCK REFERENCE:
-KOKEE12M
-CLOCK BREAKS: 0
+CLOCK BREAKS: 1
+YARRA12M  58197.012639
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 1
+WETTZ13N WETTZELL
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Andreas Hellerschmied
-# Date: 2019-08-28
+# Name: Markus Mikschi
+# Date: 01_NOV_2019
 # Additional analysis comments (optional):
-# - Datum issue: 
-#    - NNT/NNR applied on all stations, although only Westford has ITRF214 coordinates
-
 
 
 # example
