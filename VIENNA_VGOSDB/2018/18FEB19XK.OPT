@@ -1,14 +1,13 @@
-CLOCK REFERENCE:
-WETTZELL
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 1
+WETTZ13N	WETTZELL
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Johannes
-# Date: 22 May 2019
+# Name: <Enter your name here>
+# Date: <Date of OPT-file submission>
 # Additional analysis comments (optional):
 
 
