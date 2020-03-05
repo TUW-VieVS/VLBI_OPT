@@ -1,22 +1,21 @@
 CLOCK REFERENCE:
-ONSA13NE
-CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
+VERAMZSW
+CLOCK BREAKS: 3
+YARRA12M  58820.980411
+WARK12M   58821.495394
+YARRA12M  58821.496001
+STATIONS TO BE EXCLUDED: 1
+SEJONG
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Jakob Gruber
-# Date: 04.Oct 19
-# Additional analysis comments (optional):
-
 # Name: Markus Mikschi
-# Date: 2020-FEB-19
+# Date: 05-Mar-2020
 # Additional analysis comments (optional):
-# - GGAO12M appears to have a CB but setting it doesn't improve 
-#   the solution and the structure of the residuals in the first
-#   solution remains the same.
+# no ideal station for ref clock. VERAMZSW chosen because it has the fewest issues.
+# SEJONG has BL clock offsets
 
 
 # example

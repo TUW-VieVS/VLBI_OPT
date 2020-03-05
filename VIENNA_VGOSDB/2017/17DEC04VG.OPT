@@ -1,16 +1,20 @@
-CLOCK REFERENCE:
-WESTFORD
-CLOCK BREAKS: 0
+CLOCK BREAKS: 1
+WESTFORD  58092.377141
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+RAEGYEB
 
-# Name: <Enter your name here>
-# Date: <Date of OPT-file submission>
+# Name: Markus Mikschi
+# Date: 07_NOV_2019
 # Additional analysis comments (optional):
 
+# Name: Markus Mikschi
+# Date: 14_FEB_2020
+# Additional analysis comments (optional):
+# removed cable cal from RAEGYEB
 
 # example
 # =============================================

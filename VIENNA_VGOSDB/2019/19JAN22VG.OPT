@@ -1,17 +1,24 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
-ONSA13NE
-ONSA13SW
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 2
+ONSA13NE
+ONSA13SW
 
 # Name: Andreas Hellerschmied
 # Date: 2019-08-28
 # Additional analysis comments (optional):
 # - Datum issue: 
 #    - NNT/NNR applied on all stations
+
+# Name: Markus Mikschi
+# Date: 2020-FEB-19
+# Additional analysis comments (optional):
+# - Datum issue: 
+#    - used coordinates from global solution
+# - didn't use cable cal instead of excluding Onsala twins 
 
 
 # example

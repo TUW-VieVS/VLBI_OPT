@@ -1,16 +1,15 @@
-CLOCK BREAKS: 1
-MATERA    58729.624595
+CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-SEJONG
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 1
-MATERA
+NO CABLE CAL: 2
+WETTZ13S
+ONSA13NE
 
-# Name: David Mayer
-# Date: 2019-09-20
-# Additional analysis comments (optional): Sejong is noisy
+# Name: Markus Mikschi
+# Date: 2020-FEB-19
+# Additional analysis comments (optional):
 
 
 # example

@@ -1,22 +1,19 @@
 CLOCK REFERENCE:
-ONSA13NE
+ISHIOKA 
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+YARRA12M
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Jakob Gruber
-# Date: 04.Oct 19
-# Additional analysis comments (optional):
-
 # Name: Markus Mikschi
-# Date: 2020-FEB-19
+# Date: 05-Mar-2020
 # Additional analysis comments (optional):
-# - GGAO12M appears to have a CB but setting it doesn't improve 
-#   the solution and the structure of the residuals in the first
-#   solution remains the same.
+# YARRA12M has large BL clock offsets
+# Hoever, of the three emaining stations only two (HOBART26 and KONGAI) have ITRF2014 coordinates.
+# --> NNR and NNT conditions to all remaining stations applied
 
 
 # example
