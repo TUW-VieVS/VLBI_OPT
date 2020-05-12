@@ -3,10 +3,11 @@ STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
-# Name: Johannes
-# Date: 23 April 2020, update 25 April 2020
+# Name: Jakob
+# Date: 4. May 2020
 # Additional analysis comments (optional):
 
 
