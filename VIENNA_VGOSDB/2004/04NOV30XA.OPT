@@ -1,5 +1,18 @@
-CLOCK BREAKS: 0
 CLOCK REFERENCE:
 HOBART26
+CLOCK BREAKS: 2
+SYOWA     53340.024826
+SYOWA     53340.539664
+STATIONS TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 0
+SOURCES TO BE EXCLUDED: 0
+STATIONS TO BE DOWN-WEIGHTED: 0
+NO CABLE CAL: 1
+HARTRAO
 # Tobias Nilsson, April 6,  2010
 # Special parmeterization: loose clock constraints
+
+# Name: Anna Zessner-Spitzenberg
+# Date: 28 May 2020
+# Additional analysis comments (optional):
+

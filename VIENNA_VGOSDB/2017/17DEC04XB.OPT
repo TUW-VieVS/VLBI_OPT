@@ -2,15 +2,23 @@ CLOCK REFERENCE:
 ONSALA60
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 4
+KASHIM11 HOBART26
+KASHIM11 NYALES20
+KASHIM11 YEBES40M
+KASHIM11 ZELENCHK
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+WETTZELL
 
 # Name: Daniel Landskron
 # Date: 2018-08-24
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 28 May 2020
+# Additional analysis comments (optional): no cable cal at WETTZELL and excluded baselines
 
 # example
 # =============================================
