@@ -1,27 +1,16 @@
-CLOCK BREAKS: 3
-MATERA    58098.568704
-MATERA    58098.625365
-MATERA    58098.914977
+CLOCK BREAKS: 2
+YARRA12M  58064.976696
+YARRA12M  58065.480903
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 5
-HOBART26 NYALES20
-KASHIM11 NYALES20
-HOBART26 KASHIM11
-KASHIM11 YEBES40M
-KASHIM11 ZELENCHK
+BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 1
-MATERA
-
-# Name: A.Girdiuk
-# Date: 2-Jan-2017
-# Additional analysis comments (optional):
-# outliers
+NO CABLE CAL: 0
 
 # Name: Anna Zessner-Spitzenberg
 # Date: 28 May 2020
-# Additional analysis comments (optional): no cable cal at MATERA and excluded baselines
+# Additional analysis comments (optional):
+
 
 # example
 # =============================================
@@ -47,10 +36,6 @@ MATERA
 # SOURCES TO BE EXCLUDED: 1
 # 1936+095
 # 2356+385 YYMMDDhhmm-YYMMDDhhmm
-#
-# STATIONS TO BE DOWN-WEIGHTED (NOISE IN [m]): 2
-# MATERA   0.040
-# WETTZELL 0.020
 #
 # NO CABLE CAL: 2
 # WETTZELL
