@@ -1,4 +1,7 @@
-STATIONS TO BE EXCLUDED: 0
+CLOCK REFERENCE:
+WETTZELL
+STATIONS TO BE EXCLUDED: 1
+MEDICINA  56324.426259-56324.616586
 KATH12M        
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -10,3 +13,6 @@ TIGOCONC  56324.442703
 
 # 14 Feb 2013 Claudia Tierno Ros
 # 14 May 2014 Lucia: decided to keep Ke, 2 clk breaks added
+# Name: Anna Zessner-Spitzenberg
+# Date: 28 May 2020
+# Additional analysis comments (optional): updated, outliers

@@ -1,6 +1,7 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 2
+MEDICINA NYALES20
 CRIMEA NOTO 
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -11,6 +12,10 @@ ONSALA60
 # Name: David Mayer
 # Date: 2016-07-28
 # Additional analysis comments (optional):  
+
+# Name: Anna Zessner-Spitzenberg
+# Date: 28 May 2020
+# Additional analysis comments (optional): excluded baseline MEDICINA NYALES20
 
 
 # example

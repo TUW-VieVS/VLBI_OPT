@@ -1,20 +1,18 @@
-CLOCK BREAKS: 2
-YARRA12M  58618.043924
-YARRA12M  58618.502940
-STATIONS TO BE EXCLUDED: 2
-KATH12M
-HOBART26
+CLOCK BREAKS: 4
+YARRA12M  58996.055608
+YARRA12M  58996.221030
+YARRA12M  58996.388339
+YARRA12M  58996.418351
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Markus Mikschi
-# Date: 16-JUL-2019
+# Name: Helene Wolf
+# Date: 10.06.2020
 # Additional analysis comments (optional):
-Unable to analyse session.
-IVS-analysis: Large baseline clock offsets from the S-band.
-Correlator notes: Preliminary release without data from SYOWA. The data of SYOWA will arrive by icebreaker after April 2020.
+
 
 # example
 # =============================================

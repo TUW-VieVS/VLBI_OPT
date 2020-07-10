@@ -1,20 +1,26 @@
-CLOCK BREAKS: 2
-YARRA12M  58618.043924
-YARRA12M  58618.502940
-STATIONS TO BE EXCLUDED: 2
-KATH12M
-HOBART26
+CLOCK REFERENCE:
+ISHIOKA 
+CLOCK BREAKS: 10
+KUNMING   58954.763640
+KUNMING   58954.914479
+URUMQI    58955.054560
+KUNMING   58955.058825
+YARRA12M  58955.094873
+HARTRAO   58955.336013
+YARRA12M  58955.336013
+HOBART26  58955.436568
+HARTRAO   58955.436568
+KUNMING   58955.484340
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Markus Mikschi
-# Date: 16-JUL-2019
+# Name: Matthias Schartner
+# Date: 20.05.2020
 # Additional analysis comments (optional):
-Unable to analyse session.
-IVS-analysis: Large baseline clock offsets from the S-band.
-Correlator notes: Preliminary release without data from SYOWA. The data of SYOWA will arrive by icebreaker after April 2020.
+
 
 # example
 # =============================================
