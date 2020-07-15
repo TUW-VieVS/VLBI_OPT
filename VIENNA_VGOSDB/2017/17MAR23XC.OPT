@@ -1,4 +1,6 @@
-CLOCK BREAKS: 1
+CLOCK BREAKS: 3
+PIETOWN   57836.322720
+MK-VLBA   57836.324404
 PIETOWN   57836.515301
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
@@ -6,8 +8,8 @@ SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: <Enter your name here>
-# Date: <Date of OPT-file submission>
+# Name: Anna Zessner-Spitzenberg
+# Date: 27. FEB 2020
 # Additional analysis comments (optional):
 
 

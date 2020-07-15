@@ -4,17 +4,21 @@ CLOCK BREAKS: 3
 NOTO      58745.942778
 YARRA12M  58745.966505
 NOTO      58746.686100
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 MATERA 1909201200 - 1909201730
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
 # Name: Jakob Gruber
 # Date: 04.10.2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 12 FEB 2020
+# Additional analysis comments (optional):no cable cal at MATERA
 
 # example
 # =============================================

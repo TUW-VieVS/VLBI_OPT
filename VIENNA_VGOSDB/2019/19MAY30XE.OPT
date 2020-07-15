@@ -1,6 +1,7 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 1
+ISHIOKA WARK12M
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
@@ -9,6 +10,9 @@ NO CABLE CAL: 0
 # Date: 18. Juni 2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 13 FEB 2020
+# Additional analysis comments (optional): excluded baseline ISHIOKA WARK12M
 
 # example
 # =============================================

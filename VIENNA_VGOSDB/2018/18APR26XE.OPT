@@ -1,16 +1,20 @@
-CLOCK BREAKS: 0
+CLOCK BREAKS: 2
 YARRA12M  58235.146748
 YARRA12M  58235.486707
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
 # Name: Sigrid Boehm
 # Date: 2018-12-20
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 19. Feb 2020
+# Additional analysis comments (optional): no cable cal at MATERA
 
 # example
 # =============================================

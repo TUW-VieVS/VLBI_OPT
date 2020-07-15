@@ -3,7 +3,8 @@ WARK12M
 CLOCK BREAKS: 2
 HOBART12  57074.050897
 HART15M   57074.473189
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+KATH12M   57073.856321-57073.900643
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -14,6 +15,8 @@ NO CABLE CAL: 0
 # Additional analysis comments (optional):
 # outliers
 
+# Anna Zessner-Spitzenberg 10 JUL 2020
+# updated
 
 # example
 # =============================================

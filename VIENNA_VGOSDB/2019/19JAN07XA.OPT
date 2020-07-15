@@ -1,4 +1,6 @@
-CLOCK BREAKS: 0
+CLOCK BREAKS: 2
+YARRA12M  58491.026100
+YARRA12M  58491.483345
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -9,6 +11,9 @@ NO CABLE CAL: 0
 # Date: 2019-02-05
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 12 FEB 2020
+# Additional analysis comments (optional): clock breaks added
 
 # example
 # =============================================

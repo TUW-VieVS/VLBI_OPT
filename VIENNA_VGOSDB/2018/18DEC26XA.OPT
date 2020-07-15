@@ -1,15 +1,19 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 MATERA    58479.490662-58479.730378
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
 # Name: Johannes 
 # Date: 6 Feb 2019
 # Additional analysis comments (optional): Matera noisy at end of session
 
+# Name: Anna Zessner-Spitzenberg 
+# Date: 2. MARCH 2020
+# Additional analysis comments (optional): no cable cal at MATERA
 
 # example
 # =============================================

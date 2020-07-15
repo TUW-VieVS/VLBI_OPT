@@ -1,14 +1,21 @@
-CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
+CLOCK BREAKS: 2
+YARRA12M  58659.103189
+YARRA12M  58659.139520
+STATIONS TO BE EXCLUDED: 1
+YARRA12M  58659.123255-58659.139489
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
 # Name: Matthias Schartner
 # Date: 13.07.2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 12 FEB 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

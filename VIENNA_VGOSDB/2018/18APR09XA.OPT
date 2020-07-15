@@ -1,7 +1,8 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 WETTZ13N  58217.709589-58217.721561
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 2
+NYALES20 WETTZ13N
 WETTZELL WETTZ13N
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -16,6 +17,9 @@ NO CABLE CAL: 0
 # Date: <2018-05-11>
 # Additional analysis comments (optional):   updated session
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 18. Feb 2020
+# Additional analysis comments (optional): excluded baseline NYALES20 WETTZ13N
 
 # example
 # =============================================

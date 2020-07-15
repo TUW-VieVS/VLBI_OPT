@@ -1,14 +1,13 @@
 CLOCK BREAKS: 1
 KASHIM34  49397.895671
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+KASHIM34  49398.044055-49398.142936
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: <Enter your name here>
-# Date: <Date of OPT-file submission>
-# Additional analysis comments (optional):
+# Anna Zessner-Spitzenberg, 16. APR 2020
 
 
 # example

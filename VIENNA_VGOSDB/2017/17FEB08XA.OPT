@@ -4,7 +4,8 @@ CLOCK BREAKS: 3
 YEBES40M  57793.035226
 MATERA    57793.087523
 MATERA    57793.391441
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+METSAHOV
 BASELINES TO BE EXCLUDED: 1
 WETTZELL WETTZ13N
 SOURCES TO BE EXCLUDED: 0
@@ -15,6 +16,9 @@ NO CABLE CAL: 0
 # Date: 17-03-17
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 17-03-2020
+# Additional analysis comments (optional): excluded METSAHOV, which has no usable data
 
 # example
 # =============================================

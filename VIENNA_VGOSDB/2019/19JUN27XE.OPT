@@ -1,4 +1,7 @@
-CLOCK BREAKS: 1
+CLOCK BREAKS: 4
+YARRA12M  58662.182731
+YARRA12M  58662.265318
+YARRA12M  58662.407963
 ZELENCHK  58662.581053
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
@@ -6,9 +9,9 @@ SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: <Enter your name here>
-# Date: <Date of OPT-file submission>
-# Additional analysis comments (optional):
+# Name: Anna Zessner-Spitzenberg,
+# Date: 13 FEB 2020
+# Additional analysis comments (optional): 
 
 
 # example

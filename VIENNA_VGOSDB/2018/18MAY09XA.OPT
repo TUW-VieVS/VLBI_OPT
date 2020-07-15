@@ -1,6 +1,7 @@
 CLOCK BREAKS: 1
 YARRA12M  58248.068206
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+HOBART26  58248.429612-58248.741085
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -10,6 +11,9 @@ NO CABLE CAL: 0
 # Date: 6 Feb 2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 19. Feb 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

@@ -1,9 +1,17 @@
 CLOCK BREAKS: 1
 SESHAN25  58703.442610
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 KATH12M
 YARRA12M
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 8
+YARRA12M KOGANEI
+KATH12M  KOGANEI
+ISHIOKA  YARRA12M
+ISHIOKA  KATH12M
+SEJONG   YARRA12M
+SESHAN25 YARRA12M
+KATH12M  SESHAN25
+KATH12M  URUMQI
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
@@ -15,6 +23,10 @@ Both stations, YARRA12M and KATH12M, show large systematic offsets.
 According to the IVS analysis report, this issue was treated by introducint numerous baseline-clock-offsets in solve.
 However, as this is not possible in VieVS, both station were removed.
 The statistics are still quite bad.
+
+# Name: Anna Zessner-Spitzenberg,
+# Date: 11 FEB 2020
+# Additional analysis comments (optional): excluded baselines with large offsets 
 
 # example
 # =============================================
