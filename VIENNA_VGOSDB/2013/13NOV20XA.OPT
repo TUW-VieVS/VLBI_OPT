@@ -1,17 +1,28 @@
+CLOCK REFERENCE:
+WETTZELL
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 SVETLOE
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 3
+EFLSBERG SVETLOE
+NOTO ZELENCHK
+NOTO METSAHOV
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 2
+SVETLOE
+MEDICINA
 
 # Name: David Mayer
 # Date: 2016-01-06
 # Additional analysis comments (optional): 
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 10 JUL 2020
+# Additional analysis comments (optional):
 
-# example
+
+# exampl
 # =============================================
 # CLOCK REFERENCE:
 # WETTZELL

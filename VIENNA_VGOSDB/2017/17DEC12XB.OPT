@@ -1,17 +1,27 @@
-CLOCK BREAKS: 2
-MATERA    58099.522836
+CLOCK BREAKS: 0
 KOKEE     58099.793356
+MATERA    58099.522836
 MATERA    58099.506464
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 6
+HOBART26 KASHIM11
+HOBART26 NYALES20
+KASHIM11 NYALES20
+KASHIM11 YEBES40M
+KASHIM11 ZELENCHK
+HOBARt26 YEBES40M
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
 # Name:  Andreas Hellerschmied
 # Date: 2018-09-24
 # Additional analysis comments (optional): KASHIM11 is very noisy => Outlier test!
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 25. FEB 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

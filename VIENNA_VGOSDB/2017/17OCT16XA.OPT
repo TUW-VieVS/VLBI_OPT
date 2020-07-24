@@ -1,10 +1,12 @@
 CLOCK REFERENCE:
-YARRA12M
-CLOCK BREAKS: 0
+WETTZELL
+CLOCK BREAKS: 2
+YARRA12M  58043.165648
+YARRA12M  58043.427280
 STATIONS TO BE EXCLUDED: 2
 HOBADBBC
+ONSALA60  58043.396978-58043.440254
 HART15M   58042.928021-58042.936331
-
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -14,6 +16,9 @@ NO CABLE CAL: 0
 # Date: 2018-08-31
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 20. Feb 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

@@ -1,3 +1,5 @@
+CLOCK REFERENCE:
+YARRA12M
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
@@ -9,6 +11,9 @@ NO CABLE CAL: 0
 # Date: 23.02.2018
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 2. MARCH 2020
+# Additional analysis comments (optional): clock reference changed
 
 # example
 # =============================================

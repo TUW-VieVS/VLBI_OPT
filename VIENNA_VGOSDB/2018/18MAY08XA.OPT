@@ -6,12 +6,17 @@ STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 2
+KOKEE
+MATERA
 
 # Name: Markus Mikschi
 # Date: 04-NOV-2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 19. Feb 2020
+# Additional analysis comments (optional): no cable cal at KOKEE and MATERA
 
 # example
 # =============================================

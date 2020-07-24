@@ -1,4 +1,5 @@
-CLOCK BREAKS: 0
+CLOCK BREAKS: 1
+ZELENCHK  54560.342859
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0 
@@ -8,6 +9,7 @@ NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/25
 
+# Anna Zessner-Spitzenberg, 9. Apr 2020
 # example
 # =============================================
 # CLOCK REFERENCE:

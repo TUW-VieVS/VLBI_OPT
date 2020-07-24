@@ -1,14 +1,19 @@
-CLOCK BREAKS: 0
+CLOCK BREAKS: 1
+MATERA    58536.565787
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
 # Name: Matthias Schartner
 # Date: 2019 03 12
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 13 FEB 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

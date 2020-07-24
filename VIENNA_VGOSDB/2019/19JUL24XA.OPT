@@ -1,9 +1,10 @@
-CLOCK BREAKS: 7
+CLOCK BREAKS: 8
 HARTRAO   58689.036128
 HARTRAO   58689.277911
 HARTRAO   58689.340035
 HARTRAO   58689.373819
 WETTZELL  58689.491291
+HARTRAO   58689.612153
 HARTRAO   58689.659983
 HARTRAO   58689.688316
 STATIONS TO BE EXCLUDED: 0
@@ -15,6 +16,10 @@ NO CABLE CAL: 0
 # Name: Johannes
 # Date: 24 Oct 2019
 # Additional analysis comments (optional):
+
+# Name: Anna Zessner-Spitzenberg,
+# Date: 13 FEB 2020
+# Additional analysis comments (optional): one clock break at HARTRAO added
 
 
 # example

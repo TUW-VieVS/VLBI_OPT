@@ -1,18 +1,22 @@
-CLOCK BREAKS: 4
+CLOCK BREAKS: 3
 YARRA12M  58214.071898
 FORTLEZA  58214.102309
-ISHIOKA   58214.185845
 YARRA12M  58214.515932
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+FORTLEZA
 
 # Name: A.Girdiuk
 # Date: 8-May-18
 # Additional analysis comments (optional):
 # small outliers
+
+# Name: Anna Zessner-Spitzenberg
+# Date: 19. Feb 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

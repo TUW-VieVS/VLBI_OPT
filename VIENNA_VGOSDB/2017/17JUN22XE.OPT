@@ -1,6 +1,8 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 2
+NYALES20 YARRA12M
+KOKEE    NYALES20
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
@@ -9,6 +11,9 @@ NO CABLE CAL: 0
 # Date: 2017/07/17
 -- Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 25. Feb 2020
+# Additional analysis comments (optional): baselines excluded 
 
 # example
 # =============================================

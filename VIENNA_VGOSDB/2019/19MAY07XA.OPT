@@ -8,13 +8,17 @@ STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 1
+NO CABLE CAL: 2
+MATERA
 SESHAN25
 
 # Name: Sigrid Boehm
 # Date: 2019-07-11
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 13 FEB 2020
+# Additional analysis comments (optional): no cable cal at MATERA
 
 # example
 # =============================================

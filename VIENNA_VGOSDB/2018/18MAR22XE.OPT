@@ -1,6 +1,7 @@
 CLOCK BREAKS: 1
 YARRA12M  58200.129439
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+NYALES20  58200.731107-58200.745388
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -9,6 +10,10 @@ NO CABLE CAL: 0
 # Name: Markus Mikschi
 # Date: 04-NOV-2019
 # Additional analysis comments (optional):
+
+# Name: Anna Zessner-Spitzenberg
+# Date: 18. Feb 2020
+# Additional analysis comments (optional): updated
 
 
 # example

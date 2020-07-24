@@ -1,6 +1,7 @@
 CLOCK BREAKS: 1
 NL-VLBA   58561.049329
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+MK-VLBA   58561.020269-58561.072433
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -10,6 +11,9 @@ NO CABLE CAL: 0
 # Date: 24-May-2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 11 FEB 2020
+# Additional analysis comments (optional): MK-VLBA excluded for a period of time
 
 # example
 # =============================================

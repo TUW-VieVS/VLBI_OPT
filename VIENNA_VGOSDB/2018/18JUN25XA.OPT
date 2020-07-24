@@ -1,16 +1,20 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 NYALES20
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+NYALES20
 
 # Name: Matthias Madzak
 # Date: 23.07.2018
 # Additional analysis comments (optional):
 NYALES20 excluded: Large noise
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 19. Feb 2020
+# Additional analysis comments (optional): no cable cal at NYALES20
 
 # example
 # =============================================

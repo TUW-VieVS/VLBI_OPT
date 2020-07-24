@@ -5,12 +5,16 @@ STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 
 # Name: Markus Mikschi
 # Date: 18_OKT_19
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 12 FEB 2020
+# Additional analysis comments (optional): no cable cal at MATERA
 
 # example
 # =============================================

@@ -1,17 +1,20 @@
-CLOCK BREAKS: 3
+CLOCK BREAKS: 2
 YARRA12M  58561.026892
-SESHAN25  58561.238657
 YARRA12M  58561.426869
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+SESHAN25
 
 # Name: Markus Mikschi
 # Date: 24-May-2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg,
+# Date: 12 FEB 2020
+# Additional analysis comments (optional): no cable cal at SESHAN25
 
 # example
 # =============================================

@@ -1,18 +1,26 @@
-CLOCK BREAKS: 2
+CLOCK REFERENCE:
+HOBART12
+CLOCK BREAKS: 3
+URUMQI    57842.845116
 URUMQI    57843.009850
 WETTZELL  57843.468090
 STATIONS TO BE EXCLUDED: 1
+HART15M   57843.518814-57843.534993
 URUMQI    57842.757973-57842.846213
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 MATERA    ZELENCHK
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 1
 MATERA  
+
 # Name: Andreas Hellerschmied
 # Date: 2017-05-29
 # Additional analysis comments (optional): Some outliers should be removed through outlier detection
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 25. FEB 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

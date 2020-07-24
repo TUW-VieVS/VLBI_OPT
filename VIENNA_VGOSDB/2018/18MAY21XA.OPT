@@ -1,6 +1,14 @@
-CLOCK BREAKS: 0
+CLOCK BREAKS: 4
+KASHIM11  58259.797182
+KASHIM11  58259.881725
+KASHIM11  58259.979774
+KASHIM11  58260.026811
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 4
+YARRA12M VERAMZSW
+ISHIOKA  YARRA12M
+KASHIM11 YARRA12M
+ISHIOKA  HOBART26
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
@@ -9,6 +17,9 @@ NO CABLE CAL: 0
 # Date: 2019-02-27
 # Additional analysis comments (optional): noisy
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 18. Feb 2020
+# Additional analysis comments (optional): updated
 
 # example
 # =============================================

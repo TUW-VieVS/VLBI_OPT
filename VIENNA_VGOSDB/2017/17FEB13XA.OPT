@@ -1,9 +1,8 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 3
-WETTZ13N  WETTDBBC
+STATIONS TO BE EXCLUDED: 1
+WETTDBBC
+BASELINES TO BE EXCLUDED: 1
 WETTZ13N  WETTZELL
-WETTDBBC  WETTZELL
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
@@ -11,6 +10,10 @@ NO CABLE CAL: 0
 # Name: A. Hellerschmied
 # Date: 2017-03-17
 # Additional analysis comments (optional):
+
+# Name : Anna Zessner-Spitzenberg
+# Date: 31. March 2020
+# Additional analysis comments (optional): excluded WETTDBBC
 
 
 # example

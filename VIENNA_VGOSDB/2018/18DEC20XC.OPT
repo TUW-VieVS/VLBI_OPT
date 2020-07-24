@@ -1,5 +1,6 @@
-CLOCK BREAKS: 3
+CLOCK BREAKS: 4
 NL-VLBA   58472.339172
+KP-VLBA   58472.405654
 NL-VLBA   58472.466806
 NL-VLBA   58472.660046
 STATIONS TO BE EXCLUDED: 0
@@ -12,6 +13,9 @@ NO CABLE CAL: 0
 # Date: 14.11.2019
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 30.3.2020
+# Additional analysis comments (optional): 2 clock breaks added
 
 # example
 # =============================================

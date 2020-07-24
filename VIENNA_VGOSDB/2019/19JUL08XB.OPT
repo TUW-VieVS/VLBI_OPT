@@ -1,7 +1,10 @@
 CLOCK REFERENCE:
 WETTZELL
-CLOCK BREAKS: 2
+CLOCK BREAKS: 5
+HN-VLBA   58672.741458
+HN-VLBA   58673.059780
 BR-VLBA   58673.256528
+HN-VLBA   58673.610590
 NL-VLBA   58673.686661
 STATIONS TO BE EXCLUDED: 1
 BR-VLBA   58673.045403-58673.047921
@@ -14,6 +17,9 @@ NO CABLE CAL: 0
 # Date: 2019-08-01
 # Additional analysis comments (optional):
 
+# Name: Anna Zessner-Spitzenberg
+# Date: 30.3.2020
+# Additional analysis comments (optional): added some clockbreaks
 
 # example
 # =============================================

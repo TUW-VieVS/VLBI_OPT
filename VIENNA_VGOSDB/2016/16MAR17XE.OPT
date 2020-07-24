@@ -5,7 +5,10 @@ STATIONS TO BE EXCLUDED: 0
 YEBES40M
 BASELINES TO BE EXCLUDED: 1
 WETTZELL  WETTZ13N
-SOURCES TO BE EXCLUDED: 0
+SOURCES TO BE EXCLUDED: 2
+0202+319  57465.223387-57465.241766
+OJ287     57465.548221-57465.553265
+OJ287     57465.543715-57465.557718
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
@@ -16,6 +19,9 @@ NO CABLE CAL: 0
 # Name: David Mayer
 # Date: 2016 05 19
 # Additional analysis comments (optional): YEBES40M/RAEGYEB is noisy due to AC problems
+
+# Anna Zessner-Spitzenberg 10 JUL 2020
+# updated
 
 # example
 # =============================================
