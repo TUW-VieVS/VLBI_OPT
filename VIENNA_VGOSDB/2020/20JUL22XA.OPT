@@ -1,14 +1,13 @@
-CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
-WETTZ13N
-WETTZELL
+CLOCK BREAKS: 1
+SEJONG    59053.537355
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: <Enter your name here>
-# Date: <Date of OPT-file submission>
+# Name: Lisa Kern
+# Date: 19.08.2020
 # Additional analysis comments (optional):
 
 

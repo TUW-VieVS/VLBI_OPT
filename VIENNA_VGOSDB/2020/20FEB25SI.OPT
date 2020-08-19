@@ -1,12 +1,13 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+HOBART12
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Andreas Hellerschmied
-# Date: 2020-04-30
+# Name: <Enter your name here>
+# Date: <Date of OPT-file submission>
 # Additional analysis comments (optional):
 
 
