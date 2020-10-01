@@ -1,18 +1,16 @@
-CLOCK BREAKS: 0
+CLOCK BREAKS: 2
+YARRA12M  58885.100191
+YARRA12M  58885.461088
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
-# Name: Jakob Gruber
-# Date: 28.09.2020
-# Additional analysis comments (optional):
-
 # Name: Markus Mikschi
 # Date: 01-OCT-2020
 # Additional analysis comments (optional):
-# No OPT-file changes made. Updated version because of a resubmission after refringing due to subambiguities mainly for SEJONG in S-band
+
 
 # example
 # =============================================
