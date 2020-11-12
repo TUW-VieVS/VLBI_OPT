@@ -11,7 +11,7 @@ YARRA12M  58947.457731
 YARRA12M  58947.529219
 YARRA12M  58947.709057
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 HOBART26 KUNMING 
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -21,6 +21,9 @@ NO CABLE CAL: 0
 # Date: 15-May-2020
 # Additional analysis comments (optional):
 
+# Name: Hana Krasna
+# Date: 12-Nov-2020
+# Additional analysis comments (optional): estimate bas-dep clock offsets
 
 # example
 # =============================================
