@@ -4,7 +4,7 @@ YARRA12M  58618.502940
 STATIONS TO BE EXCLUDED: 0
 KATH12M
 HOBART26
-BASELINES TO BE EXCLUDED: 12
+BASELINES TO BE EXCLUDED: 0
 KASHIM11 YARRA12M
 KOGANEI  YARRA12M
 KATH12M  KOGANEI
@@ -20,6 +20,8 @@ KASHIM11 WARK12M
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET
 
 # Name: Markus Mikschi
 # Date: 16-JUL-2019
@@ -27,6 +29,11 @@ NO CABLE CAL: 0
 Unable to analyse session.
 IVS-analysis: Large baseline clock offsets from the S-band.
 Correlator notes: Preliminary release without data from SYOWA. The data of SYOWA will arrive by icebreaker after April 2020.
+
+# Name: Hana Krasna
+# Date: 10-NOV-2020
+# Additional analysis comments (optional):
+# Estimate baseline-dependent clock offsets!
 
 # example
 # =============================================

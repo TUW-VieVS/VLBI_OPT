@@ -1,6 +1,6 @@
 CLOCK BREAKS: 1
 METSAHOV  56469.408652
-STATIONS TO BE EXCLUDED: 5
+STATIONS TO BE EXCLUDED: 0
 KASHIM34
 CHICHI10
 VERAMZSW
@@ -15,3 +15,5 @@ SOURCES TO BE EXCLUDED: 0
 
 # Caroline Schoenberger, 2016/02/02
 
+# Name: <Hana Krasna>
+# 2020/11/11, estimate bas-dep clock offsets
