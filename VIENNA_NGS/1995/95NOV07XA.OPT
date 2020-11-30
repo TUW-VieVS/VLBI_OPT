@@ -1,7 +1,10 @@
 CLOCK REFERENCE:  
 HARTRAO    
 CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED:   2  
+STATIONS TO BE EXCLUDED:   0 
 SANTIA12        
 HOBART26             
 # Sigrid Böhm 18. August 2010
+# Hana Krasna, 27 Nov 2020
+# estimate baseline-dep clocks
+

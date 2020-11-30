@@ -1,5 +1,5 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 JPL_MV1
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -7,6 +7,8 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/12
+# Hana Krasna, 30-11-2020
+# excl. JPL_MV1 from datum
 
 # example
 # =============================================

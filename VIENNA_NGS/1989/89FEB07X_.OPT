@@ -1,6 +1,6 @@
 CLOCK BREAKS: 1
 HATCREEK  47564.837523
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 PT_REYES
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -8,6 +8,7 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/03/07
+# Hana Krasna, 2020/11/27
 
 # example
 # =============================================

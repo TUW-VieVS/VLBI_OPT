@@ -1,4 +1,6 @@
 CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED:   1 
+STATIONS TO BE EXCLUDED:   0 
 GGAO7108    
 # Sigrid Böhm 19. August 2010
+# Hana Krasna, 27 Nov 2020
+# estimate baseline-dep clocks

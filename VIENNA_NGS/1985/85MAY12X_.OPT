@@ -1,13 +1,14 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 1
+QUINCY 
 MON_PEAK
-QUINCY  
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/01/13
+# Hana Krasna, 2020/11/27
 
 # example
 # =============================================
