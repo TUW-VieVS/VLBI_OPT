@@ -1,7 +1,7 @@
 CLOCK BREAKS: 1
 HOBART26  58829.443785
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 HOBART26 KOGANEI
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -15,6 +15,9 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 13 May 2020
 # Additional analysis comments (optional): baseline excluded
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 
 
 # example

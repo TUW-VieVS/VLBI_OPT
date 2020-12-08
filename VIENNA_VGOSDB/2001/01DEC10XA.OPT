@@ -1,5 +1,9 @@
 CLOCK REFERENCE:
 WETTZELL
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 CRIMEA    
+
 # Tobias Nilsson, 19 Nov, 2010
+
+# Hana Krasna, 2020-12-04
+# wrms is 1 cm even though chi2 is 9

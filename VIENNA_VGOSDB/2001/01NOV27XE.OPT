@@ -1,5 +1,6 @@
-CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+CLOCK BREAKS: 1
+WETTZELL  52241.315932
+STATIONS TO BE EXCLUDED: 0
 WETTZELL
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -7,6 +8,9 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/24
+
+# Hana Krasna, 2020-12-04
+# clock break at WETTZELL added
 
 # example
 # =============================================

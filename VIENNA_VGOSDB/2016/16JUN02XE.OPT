@@ -7,7 +7,7 @@ KATH12M   57542.205069
 HOBART12  57542.382714
 HOBART12  57542.411806
 HOBART12  57542.542668
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 HOBART12  57541.833611-57541.837662
 BASELINES TO BE EXCLUDED: 1
 FORTLEZA KATH12M
@@ -19,6 +19,7 @@ NO CABLE CAL: 0
 # Date: <Date of OPT-file submission>
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-03
 
 # example
 # =============================================

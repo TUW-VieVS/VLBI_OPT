@@ -1,6 +1,6 @@
 CLOCK BREAKS: 1
 WETTZELL  58858.121053
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 URUMQI
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -10,6 +10,9 @@ NO CABLE CAL: 0
 # Name: Helene Wolf
 # Date: 25-01-2020
 # Additional analysis comments (optional):
+
+# Hana Krasna, 2020-12-04
+# bas-dep clock offset
 
 
 # example

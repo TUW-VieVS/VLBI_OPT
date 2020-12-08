@@ -1,7 +1,9 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 NOTO
-BASELINES TO BE EXCLUDED: 0
+BASELINES TO BE EXCLUDED: 2
+HOBART12  NOTO
+KATH12M   NOTO
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
@@ -10,6 +12,7 @@ NO CABLE CAL: 0
 # Date: <Date of OPT-file submission>
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-03
 
 # example
 # =============================================

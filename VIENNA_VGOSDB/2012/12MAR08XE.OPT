@@ -1,6 +1,6 @@
 CLOCK REFERENCE:
 WETTZELL
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 TIGOCONC
 FORTLEZA
 BASELINES TO BE EXCLUDED: 0
@@ -12,3 +12,6 @@ BASELINES TO BE EXCLUDED: 0
 # Hana Spicakova, 2012-03-21, 30 Jan 2014
 # unresolved ambiq. at Fortaleza's baselines
 # Tigo very noisy
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets

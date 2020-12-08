@@ -4,7 +4,7 @@ CLOCK BREAKS: 3
 YARRA12M  58820.980411
 WARK12M   58821.495394
 YARRA12M  58821.496001
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 SEJONG
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -16,6 +16,8 @@ NO CABLE CAL: 0
 # Additional analysis comments (optional):
 # no ideal station for ref clock. VERAMZSW chosen because it has the fewest issues.
 # SEJONG has BL clock offsets
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 
 
 # example

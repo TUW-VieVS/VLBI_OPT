@@ -1,7 +1,7 @@
 CLOCK REFERENCE:
 WETTZELL
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 YEBES40M 1810091730-1810100830
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -12,6 +12,7 @@ NO CABLE CAL: 0
 # Date: <Date of OPT-file submission>
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-04
 
 # example
 # =============================================

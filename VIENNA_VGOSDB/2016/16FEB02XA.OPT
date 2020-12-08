@@ -4,7 +4,7 @@ CLOCK BREAKS: 3
 KATH12M   57421.239236
 KATH12M   57421.311586
 KATH12M   57421.424358
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 KUNMING 1602021730-1602211830
 BASELINES TO BE EXCLUDED: 1
 KATH12M   YARRA12M
@@ -14,6 +14,8 @@ NO CABLE CAL: 0
 
 # A. Girdiuk 2016-Apr-9
 # L. McCallum, 2018-May-16: clock breaks at Ke added
+
+# Hana Krasna, 2020-12-03
 
 # example
 # =============================================

@@ -1,7 +1,7 @@
 CLOCK REFERENCE:
 KOKEE   
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 CHICHI10
 TSUKUB32
 BASELINES TO BE EXCLUDED: 0
@@ -11,6 +11,7 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/01/26
+# Hana Krasna, 02-12-2020
 
 # example
 # =============================================

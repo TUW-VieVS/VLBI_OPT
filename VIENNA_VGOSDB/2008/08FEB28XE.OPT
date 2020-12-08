@@ -2,7 +2,7 @@ CLOCK REFERENCE:
 WETTZELL  
 CLOCK BREAKS:   0
 STATIONS TO BE EXCLUDED:   0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 BADARY FORTLEZA
 
 # Hana Spicakova 07 December 2010
@@ -10,4 +10,7 @@ BADARY FORTLEZA
 
 # Anna Zessner-Spitzenberg 10 JUL 2020
 # updated
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 

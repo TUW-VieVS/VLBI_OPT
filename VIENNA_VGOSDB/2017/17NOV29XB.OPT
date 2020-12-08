@@ -2,7 +2,7 @@ CLOCK BREAKS: 2
 KASHIM11  58086.088987
 MATERA    58086.678397
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 KASHIM11 HOBART26
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -12,6 +12,8 @@ NO CABLE CAL: 0
 # Date: 2018-02-21, 2019-02-28
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-04
+# bas-dep clock offset
 
 # example
 # =============================================

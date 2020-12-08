@@ -1,9 +1,12 @@
 CLOCK REFERENCE:
 HOBART26
 CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED:   1
+STATIONS TO BE EXCLUDED:   0
 SESHAN25
 
 
 # Johannes Boehm 12 April 2010
 # it looks like a matter of taste whether deleting Urumqui or Seshan
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets

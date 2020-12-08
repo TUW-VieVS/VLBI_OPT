@@ -3,9 +3,9 @@ WETTZELL
 CLOCK BREAKS: 2
 KUNMING   57804.786146
 NYALES20  57805.431134
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 HOBART26
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 NYALES20 KUNMING
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -18,6 +18,12 @@ NO CABLE CAL: 0
 # Name: D. Mayer
 # Date: 03-May-2017
 # Additional analysis comments (optional): Update. excluded baseline NYALES20 KUNMING
+
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
+
+
 
 # example
 # =============================================

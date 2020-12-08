@@ -2,7 +2,7 @@ CLOCK BREAKS: 1
 SESHAN25  57855.666412
 STATIONS TO BE EXCLUDED: 1
 SEJONG    57854.874659-57854.878287
-BASELINES TO BE EXCLUDED: 4
+BASELINES TO BE EXCLUDED: 0
 SEJONG   YARRA12M
 HOBART12 SESHAN25
 KATH12M  KUNMING
@@ -18,6 +18,8 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 20. Feb 2020
 # Additional analysis comments (optional): updated
+
+# Hana Krasna, 2020-12-03
 
 # example
 # =============================================

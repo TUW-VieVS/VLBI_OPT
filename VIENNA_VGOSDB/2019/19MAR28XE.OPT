@@ -5,7 +5,7 @@ YARRA12M  58571.116979
 FORTLEZA  58571.319601
 YARRA12M  58571.567755
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 6
+BASELINES TO BE EXCLUDED: 0
 URUMQI    ZELENCHK
 URUMQI    WARK12M 
 KOKEE     URUMQI  
@@ -20,6 +20,8 @@ NO CABLE CAL: 0
 # Date: 7. Jan 2020
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-04
+# bas-dep clock offset
 
 # example
 # =============================================

@@ -2,7 +2,7 @@ CLOCK REFERENCE:
 ONSALA60
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 4
+BASELINES TO BE EXCLUDED: 0
 KASHIM11 HOBART26
 KASHIM11 NYALES20
 KASHIM11 YEBES40M
@@ -19,6 +19,9 @@ WETTZELL
 # Name: Anna Zessner-Spitzenberg
 # Date: 28 May 2020
 # Additional analysis comments (optional): no cable cal at WETTZELL and excluded baselines
+
+# Hana Krasna, 2020-12-03
+# bas-dep clock offset
 
 # example
 # =============================================
