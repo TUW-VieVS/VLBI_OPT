@@ -1,11 +1,15 @@
 CLOCK REFERENCE:
 WETTZELL  
-CLOCK BREAKS:   0
-URUMQI    54733.000
-URUMQI    54733.35
-URUMQU    54733.610
-STATIONS TO BE EXCLUDED:   1
+CLOCK BREAKS: 3
+URUMQI    54733.001701
+URUMQI    54733.348542
+URUMQI    54733.607650
+STATIONS TO BE EXCLUDED:   0
 URUMQI            
-
+NO CABLE CAL: 0
+URUMQI
 # Johannes Boehm 12 April 2010
 # not sure URUMQUI has a lot of clock breaks, thus excluded
+
+# Hana Krasna, 2020-12-09
+# URUMQI has 3 clock breaks, I think it is ok

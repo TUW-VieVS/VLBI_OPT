@@ -1,9 +1,14 @@
 CLOCK REFERENCE:
 WETTZELL   
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED:   1
+URUMQI    53914.528472
+STATIONS TO BE EXCLUDED:   0
+URUMQI
+NO CABLE CAL: 1
 URUMQI
 
 
 
 # Caroline Schoenberger, 2016/02/04
+# Hana Krasna, 2020-12-09
+# no cable cal at URUMQI instead of excluding
