@@ -11,7 +11,7 @@ ZELENCHK  55685.422859
 ZELENCHK  55685.502002
 ZELENCHK  55685.587228
 ZELENCHK  55685.676134
-STATIONS TO BE EXCLUDED: 4
+STATIONS TO BE EXCLUDED: 0
 TSUKUB32   
 VERAMZSW
 CHICHI10
@@ -27,10 +27,14 @@ SOURCES TO BE EXCLUDED: 1
 1053+704
 0805+410
 1921-293
-
+NO CABLE CAL: 0
+ZELENCHK
 
 # Caroline Schoenberger, 2016/01/20
 
 # Name: David Mayer
 # Date: 2016-12-06
 # Additional analysis comments (optional): update: Sources removed according to Goddard list 
+
+# Hana Krasna, 2020-12-11
+# excluded stations put back
