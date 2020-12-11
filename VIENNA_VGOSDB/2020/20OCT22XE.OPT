@@ -1,6 +1,7 @@
 CLOCK REFERENCE:
 WARK12M 
-CLOCK BREAKS: 0
+CLOCK BREAKS: 1
+FORTLEZA  59145.204855
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -9,13 +10,9 @@ NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 -BASELINE-DEPENDENT CLOCK OFFSET
 
-# Name: David Mayer
-# Date: 2020-11-06
-# Additional analysis comments (optional):
-
-# Name: Hana Krasna
-# Date: 2020-12-11
-# Additional analysis comments (optional): updated session
+# Name: <Hana Krasna>
+# Date: <2020-12-11>
+# Additional analysis comments (optional): clock break for Fortleza added in the middle of the session because it needed looser clock constraints
 
 
 # example
