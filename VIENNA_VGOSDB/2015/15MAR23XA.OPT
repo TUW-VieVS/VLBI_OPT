@@ -2,7 +2,7 @@ CLOCK BREAKS: 2
 HOBART12  57104.901435
 KATH12M   57105.047471
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 NYALES20  SEJONG  
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -12,6 +12,7 @@ NO CABLE CAL: 0
 # Date: 19. Dec 2019
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-15
 
 # example
 # =============================================

@@ -1,10 +1,11 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 KP-VLBA   56498.437089-56498.442581
 KP-VLBA   56498.541574-56498.545735
 BASELINES TO BE EXCLUDED: 0
 HN-VLBA   MK-VLBA   
 SOURCES TO BE EXCLUDED: 0
+NO CABLE CAL: 0
 
 
 # Johannes, 26 August 2013
@@ -12,8 +13,6 @@ SOURCES TO BE EXCLUDED: 0
 # updated by, David Mayer 16 FEB 2016
 
 # Hana Krasna, 15 Jan 2014
-# do not exclude the baseline, no outliers; 
-# !!! ONLY estimate source 0325+395 + all sources which are not icrf2 VCS
 
 # example
 # ============================

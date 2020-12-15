@@ -3,10 +3,11 @@ YARRA12M
 CLOCK BREAKS: 2
 KATH12M   57159.419404
 HOBART12  57159.645694
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+HOBART26  57159.887293-57159.889827
 HOBART12
 HOBART26
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 HOBART12  HOBART26
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -16,6 +17,9 @@ NO CABLE CAL: 0
 # Date: 2016-05-27
 # Lucia McCallum, 2018-5-16: removed Hb-Ho baseline rather than the whole stations, clock break at Hb added. Works with OUTLIERS. Still high session fit though (70ps).
 # Additional analysis comments (optional): OUTLIERS
+
+# Hana Krasna, 2020-12-15
+# only two observations at HOBART26 removed
 
 
 # example
