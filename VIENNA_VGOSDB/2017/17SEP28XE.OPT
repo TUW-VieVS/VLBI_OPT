@@ -6,7 +6,7 @@ YARRA12M  58025.428304
 KATH12M   58025.451030
 YARRA12M  58025.453519
 WETTZELL  58025.498854
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 YARRA12M  58025.008697-58025.057383
 BASELINES TO BE EXCLUDED: 1
 MATERA   WARK12M 
@@ -18,6 +18,8 @@ NO CABLE CAL: 0
 # Date: 21.10.2017
 # Additional analysis comments (optional):
 # outliers
+
+# Hana Krasna, 2020-12-16
 
 # example
 # =============================================

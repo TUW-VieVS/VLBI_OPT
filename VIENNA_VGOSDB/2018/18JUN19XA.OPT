@@ -1,6 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 SEJONG WARK12M
 SYOWA  SEJONG
 SOURCES TO BE EXCLUDED: 0
@@ -14,6 +14,9 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 19. Feb 2020
 # Additional analysis comments (optional): baselines excluded
+
+# Hana Krasna, 2020-12-16
+# baselines added back
 
 # example
 # =============================================

@@ -1,6 +1,8 @@
-CLOCK BREAKS: 1
+CLOCK BREAKS: 2
 YARRA12M  58248.068206
+HOBART26  58248.386580
 STATIONS TO BE EXCLUDED: 1
+HARTRAO
 HOBART26  58248.429612-58248.741085
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -14,6 +16,9 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 19. Feb 2020
 # Additional analysis comments (optional): updated
+
+# Hana Krasna, 2020-12-16
+# HARTRAO excluded
 
 # example
 # =============================================

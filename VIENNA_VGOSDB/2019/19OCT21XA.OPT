@@ -1,7 +1,7 @@
 CLOCK BREAKS: 1
 YARRA12M  58778.135150
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 KOKEE	SEJONG
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -12,6 +12,8 @@ MATERA
 # Date: 12 Nov 2019
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-16
+# bas-dep clock offset
 
 # example
 # =============================================

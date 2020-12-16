@@ -4,11 +4,11 @@ CLOCK BREAKS: 3
 SVETLOE   58512.813345
 YARRA12M  58513.070145
 YARRA12M  58513.481111
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 VERAMZSW
 DSS36
 SYOWA
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 KASHIM11 SYOWA
 SYOWA    SEJONG
 SOURCES TO BE EXCLUDED: 0
@@ -22,6 +22,9 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg,
 # Date: 11 FEB 2020
 # Additional analysis comments (optional): updated
+
+# Hana Krasna, 2020-12-16
+
 
 # example
 # =============================================

@@ -3,7 +3,7 @@ WETTZELL
 CLOCK BREAKS: 2
 YARRA12M  58883.008461
 YARRA12M  58883.466053
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 SEJONG
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -14,6 +14,7 @@ NO CABLE CAL: 0
 # Date: 2020-02-18
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-16
 
 # example
 # =============================================
