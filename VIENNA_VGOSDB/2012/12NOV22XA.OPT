@@ -1,6 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 MEDICINA NYALES20
 CRIMEA NOTO 
 SOURCES TO BE EXCLUDED: 0
@@ -17,6 +17,8 @@ ONSALA60
 # Date: 28 May 2020
 # Additional analysis comments (optional): excluded baseline MEDICINA NYALES20
 
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 
 # example
 # =============================================

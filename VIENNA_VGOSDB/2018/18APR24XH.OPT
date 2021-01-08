@@ -1,7 +1,9 @@
-CLOCK BREAKS: 2
+CLOCK BREAKS: 4
 VERAMZSW  58233.089647
+HART15M   58233.097801
+HART15M   58233.375984
 VERAMZSW  58233.411771
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 HART15M
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -12,6 +14,8 @@ NO CABLE CAL: 0
 # Date: 2018 11 30
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-16
+# HART15M put back, 2 clock breaks added for looser clock constrains, chi2 4-->2
 
 # example
 # =============================================

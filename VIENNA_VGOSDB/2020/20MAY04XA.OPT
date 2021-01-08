@@ -1,5 +1,5 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 SVETLOE
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -10,6 +10,9 @@ NO CABLE CAL: 0
 # Date: 16-May-2020
 # Additional analysis comments (optional):
 # SVETLOE removed due to RFI according to correlator report (chi2 2.5 --> 1.5)
+
+# Hana Krasna, 2020-12-16
+# SVETLOE put back, the estimates look good even though the chi2 is above 2
 
 # example
 # =============================================

@@ -1,5 +1,5 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 3
+STATIONS TO BE EXCLUDED: 0
 AIRA
 CHICHI10
 SINTOTU3
@@ -10,6 +10,7 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/09
+# Hana Krasna, 2020-12-09
 
 # example
 # =============================================

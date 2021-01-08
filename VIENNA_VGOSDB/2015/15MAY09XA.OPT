@@ -1,7 +1,7 @@
 CLOCK BREAKS: 2
 KATH12M   57151.219670
 KATH12M   57151.370208
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 TIDBIN64
 DSS45   
 BASELINES TO BE EXCLUDED: 0
@@ -12,6 +12,9 @@ NO CABLE CAL: 0
 # Younghee Kwak, 2015/09/11
 
 # Anna Zessner-Spitzenberg, 7 Apr 2020, excluded 2 stations
+
+# Hana Krasna, 2020-12-15
+# stations put back, it does not harm the solution
 
 # example
 # STATIONS MUST HAVE 8 CHARACTERS (add blanks!)

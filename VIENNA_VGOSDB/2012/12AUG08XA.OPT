@@ -1,5 +1,5 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 4
+STATIONS TO BE EXCLUDED: 0
 CHICHI10
 SINTOTU3
 TSUKUB32
@@ -13,6 +13,8 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/01/26
+# Hana Krasna, 02-12-2020
+# no need to exclude 4 stations
 
 # example
 # =============================================

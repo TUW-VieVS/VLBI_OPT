@@ -1,6 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 HOBART26 HOBART12
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -10,6 +10,8 @@ NO CABLE CAL: 0
 # Date: 17-03-17
 # Additional analysis comments (optional):
 
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 
 # example
 # =============================================

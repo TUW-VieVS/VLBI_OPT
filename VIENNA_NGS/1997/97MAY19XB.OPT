@@ -2,6 +2,9 @@ CLOCK REFERENCE:
 GILCREEK    
 CLOCK BREAKS:   0
 HOBART26  50616.98
-STATIONS TO BE EXCLUDED:   1
+STATIONS TO BE EXCLUDED:   0
 HN-VLBA       
 # Sigrid Böhm 17. August 2010
+# Hana Krasna, 27 Nov 2020
+# estimate baseline-dep clocks
+

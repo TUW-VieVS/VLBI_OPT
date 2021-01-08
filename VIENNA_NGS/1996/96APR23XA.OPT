@@ -3,6 +3,8 @@ GILCREEK
 CLOCK BREAKS:   2 
 CRIMEA    50197.35
 WESTFORD  50197.07
-STATIONS TO BE EXCLUDED:   1 
+STATIONS TO BE EXCLUDED:   0 
 NYALES20      
 # Sigrid Böhm 18. August 2010
+# Hana Krasna, 27 Nov 2020
+# estimate baseline-dep clocks

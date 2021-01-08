@@ -1,6 +1,14 @@
-CLOCK BREAKS:   1
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS:   0
 URUMQI     54236.18
-STATIONS TO BE EXCLUDED:   1
+STATIONS TO BE EXCLUDED:   0
 DSS13    
+NO CABLE CAL: 1
+URUMQI
 # Lucia Plank 13 April 2010
 # Tobias Nilsson 25 Nov, 2010
+
+# Hana Krasna, 2020-12-09
+# no cable cal at URUMQI
+# DSS13 seems ok for me

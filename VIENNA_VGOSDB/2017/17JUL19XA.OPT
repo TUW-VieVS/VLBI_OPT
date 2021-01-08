@@ -1,5 +1,5 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 HOBART26
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -14,7 +14,7 @@ NO CABLE CAL: 0
 # Date: 2018-05-24
 # Additional analysis comments (optional): HOBART26 is very noisy
 
-
+# Hana Krasna, 2020-12-03
 
 # example
 # =============================================

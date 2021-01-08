@@ -1,5 +1,5 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 HRAS_085
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -8,6 +8,7 @@ HRAS_085 0.040
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/16
+# Hana Krasna, 2020/11/27
 
 # example
 # =============================================

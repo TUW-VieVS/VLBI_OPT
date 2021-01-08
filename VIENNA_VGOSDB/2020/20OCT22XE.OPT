@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 CLOCK BREAKS: 0
+=======
+CLOCK REFERENCE:
+WARK12M 
+CLOCK BREAKS: 1
+FORTLEZA  59145.204855
+>>>>>>> 245e8e632f15d3efccea1de4446c74cc36c8d91b
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -7,9 +14,15 @@ NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 -BASELINE-DEPENDENT CLOCK OFFSET
 
+<<<<<<< HEAD
 # Name: Lisa Kern
 # Date: 05.11.2020
 # Additional analysis comments (optional):
+=======
+# Name: <Hana Krasna>
+# Date: <2020-12-11>
+# Additional analysis comments (optional): clock break for Fortleza added in the middle of the session because it needed looser clock constraints
+>>>>>>> 245e8e632f15d3efccea1de4446c74cc36c8d91b
 
 
 # example

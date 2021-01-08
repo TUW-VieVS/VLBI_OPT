@@ -2,8 +2,11 @@ CLOCK REFERENCE:
 WETTZELL
 CLOCK BREAKS:   0
 STATIONS TO BE EXCLUDED:   0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 ZELENCHK  SVETLOE  
 # Lucia Plank 23 March 2010
 # does not work (+/- 1 second in read_ngs need further investigations!)
 # Works if Zelenchk-Svetloe is excluded, Tobias Nilsson, June 18, 2010
+
+# Hana Krasna, 2020-12-09
+# works

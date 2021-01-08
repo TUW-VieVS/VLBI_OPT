@@ -1,6 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 KASHIM34  HN-VLBA
 NYALES20  HN-VLBA
 SOURCES TO BE EXCLUDED: 0
@@ -11,6 +11,7 @@ NO CABLE CAL: 0
 # Date: 14. Jan 2020
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-15
 
 # example
 # =============================================

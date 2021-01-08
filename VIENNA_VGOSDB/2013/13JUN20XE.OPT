@@ -1,13 +1,18 @@
 CLOCK REFERENCE: 
 WETTZELL 
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 KOKEE    
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
+NO CABLE CAL: 1
+KOKEE
 
 # 2013 July 7, Sigrid Boehm
 # 2013 Dec 19, Johannes, KOKEE very noisy
+
+# Hana Krasna, 2020-12-14
+# switch off cable cal for KOKEE
 
 # example
 # ============================

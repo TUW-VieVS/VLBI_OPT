@@ -2,9 +2,12 @@ CLOCK BREAKS: 1
 URUMQI    53137.102969
 CLOCK REFERENCE:
 WETTZELL
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 GGAO7108
 # Tobias Nilsson Mar 26, 2010
 # Special parameterization: loos clock constr for Urumqi
 # Anna Zessner-Spitzenberg, 13 Dec 2019
 # clock break at URUMQI added
+# Hana Krasna, 30-11-2020
+# bas-dep clock offsets
+

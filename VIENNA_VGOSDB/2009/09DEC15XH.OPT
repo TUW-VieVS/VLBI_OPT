@@ -3,7 +3,7 @@ WETTZELL
 CLOCK BREAKS: 2
 MEDICINA  55181.277662
 CRIMEA    55181.500567
-STATIONS TO BE EXCLUDED: 3
+STATIONS TO BE EXCLUDED: 0
 AIRA    
 CHICHI10
 VERAMZSW
@@ -13,6 +13,7 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/01/12
+# Hana Krasna, 02-12-2020
 
 # example
 # =============================================

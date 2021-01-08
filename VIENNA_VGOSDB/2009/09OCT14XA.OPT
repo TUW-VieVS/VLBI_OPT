@@ -4,7 +4,7 @@ CLOCK BREAKS: 3
 KOKEE     55118.793009
 PARKES    55119.128762
 PARKES    55119.259769
-STATIONS TO BE EXCLUDED: 3
+STATIONS TO BE EXCLUDED: 0
 AIRA
 CHICHI10
 SINTOTU3
@@ -16,6 +16,8 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/08
+
+# Hana Krasna, 2020-12-09
 
 # example
 # =============================================

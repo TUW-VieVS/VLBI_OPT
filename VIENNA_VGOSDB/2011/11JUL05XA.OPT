@@ -2,7 +2,7 @@ CLOCK BREAKS: 1
 HOBART12  55748.099144
 CLOCK REFERENCE:
 WETTZELL
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 YARRA12M
 
 
@@ -12,3 +12,7 @@ YARRA12M
 
 # Jing Sun, 5 Oct. 2012  
 # Lucia Plank, 27-3-2014, clock break Hb added
+
+# Hana Krasna, 30-11-2020
+# bas-dep clock offsets
+

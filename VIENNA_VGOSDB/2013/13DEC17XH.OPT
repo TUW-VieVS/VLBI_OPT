@@ -1,6 +1,6 @@
 CLOCK BREAKS: 1
 ZELENCHK  56643.879716
-STATIONS TO BE EXCLUDED: 5
+STATIONS TO BE EXCLUDED: 0
 VERAISGK
 VERAMZSW
 CHICHI10
@@ -12,6 +12,7 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/10
+# Hana Krasna, 2020-12-02
 
 # example
 # =============================================

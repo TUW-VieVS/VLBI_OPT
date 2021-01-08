@@ -1,6 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 MATERA ZELENCHK
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -13,6 +13,9 @@ NO CABLE CAL: 0
 # Name: David Mayer
 # Date: 04.04.17
 # Additional analysis comments (optional): updated
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 
 
 # example

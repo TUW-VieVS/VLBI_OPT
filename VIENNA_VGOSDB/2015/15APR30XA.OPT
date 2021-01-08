@@ -2,7 +2,7 @@ CLOCK REFERENCE:
 KATH12M
 CLOCK BREAKS: 1
 HOBART12  57142.959439
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 SEJONG  
 TSUKUB32 
 VERAMZSW
@@ -19,6 +19,9 @@ NO CABLE CAL: 0
 # Caroline Schoenberger, 2016/02/01
 # David Mayer, 2016/06/06 --> new version works much better
 # Lucia McCallum, 2018/5/16 --> clock break at Hb added back in
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 
 # example
 # STATIONS MUST HAVE 8 CHARACTERS (add blanks!)

@@ -1,7 +1,7 @@
 CLOCK BREAKS: 2
 SVETLOE   57941.427905
 SVETLOE   57941.522731
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 NYALES20
 BASELINES TO BE EXCLUDED: 2
 YARRA12M FORTLEZA
@@ -9,13 +9,14 @@ WETTZELL WETTZ13N
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
+
 # Name: Andreas Hellerschmied
 # Date: 2017-07-24
 # Additional analysis comments (optional): 
 # - NYALES20 causes severe problems on all baselines => excluded
 # - YARRA12M FORTLEZA baseline has only 2 obs => excluded
 
-
+# Hana Krasna, 2020-12-03
 
 
 # example

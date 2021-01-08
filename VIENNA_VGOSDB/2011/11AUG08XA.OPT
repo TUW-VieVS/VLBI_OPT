@@ -1,10 +1,10 @@
 CLOCK REFERENCE:
 WETTZELL
 CLOCK BREAKS: 1
-HOBART12  55782.185781
-BASELINES TO BE EXCLUDED: 1
+HOBART12  55782.206852
+BASELINES TO BE EXCLUDED: 0
 HOBART12  PARKES   
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 YARRA12M                 
 PARKES  
 
@@ -15,3 +15,6 @@ Pa baseline
 # Name: David Mayer
 # Date: 2016-01-06
 # Additional analysis comments (optional): excluded the HOBART12  PARKES  baseline
+
+# Hana Krasna, 02-12-2020
+# the problem was wrong placement of the clock break for Hobart12

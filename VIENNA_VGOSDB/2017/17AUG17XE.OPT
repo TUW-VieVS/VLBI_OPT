@@ -1,5 +1,5 @@
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 YEBES40M
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -9,6 +9,9 @@ NO CABLE CAL: 0
 # Name: Lucia McCallum	
 # Date: 8-sep-2017
 # Additional analysis comments (optional):
+
+# Hana Krasna, 2020-12-15
+# YEBES40M put back, seems ok to me
 
 
 # example

@@ -1,9 +1,9 @@
 CLOCK REFERENCE:
 MATERA  
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
-YEBES40M
+STATIONS TO BE EXCLUDED: 1
 YEBESDBC
+YEBES40M
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -12,6 +12,8 @@ NO CABLE CAL: 0
 # Name: A. Girdiuk
 # Date: 1-Jun-2016
 # Additional analysis comments (optional):
+
+# Hana Krasna, 2020-12-15
 
 # example
 # =============================================

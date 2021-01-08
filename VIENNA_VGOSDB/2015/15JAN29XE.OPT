@@ -1,7 +1,7 @@
 CLOCK BREAKS: 1
 HOBART12  57052.236730
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 3
+BASELINES TO BE EXCLUDED: 0
 MEDICINA  YARRA12M
 NYALES20  YARRA12M
 WETTZELL  YARRA12M
@@ -12,6 +12,9 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 19. Dec 2019
 # Additional analysis comments (optional):
+
+# Hana Krasna, 2020-12-02
+# bas-dep clock offset
 
 
 # example

@@ -2,7 +2,7 @@ CLOCK REFERENCE:
 WETTZELL
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 5
+BASELINES TO BE EXCLUDED: 0
 SEJONG    SESHAN25
 HART15M   SEJONG
 KOKEE     SEJONG  
@@ -15,6 +15,8 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 19. Dec 2019
 # Additional analysis comments (optional):
+
+# Hana Krasna, 2020-12-02
 
 
 # example

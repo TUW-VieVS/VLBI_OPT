@@ -4,7 +4,7 @@ KASHIM11  58259.881725
 KASHIM11  58259.979774
 KASHIM11  58260.026811
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 4
+BASELINES TO BE EXCLUDED: 0
 YARRA12M VERAMZSW
 ISHIOKA  YARRA12M
 KASHIM11 YARRA12M
@@ -20,6 +20,9 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 18. Feb 2020
 # Additional analysis comments (optional): updated
+
+# Hana Krasna, 2020-12-04
+# bas-dep clock offset
 
 # example
 # =============================================

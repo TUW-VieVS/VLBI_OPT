@@ -5,7 +5,7 @@ MATERA    58729.950544
 NOTO      58730.331644
 NOTO      58730.375139
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 MATERA    NOTO    
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -16,6 +16,8 @@ MATERA
 # Date: 19. Dec 2019
 # Additional analysis comments (optional):
 
+# Hana Krasna, 2020-12-16
+# bas-dep clock offset
 
 # example
 # =============================================

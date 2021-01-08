@@ -7,7 +7,7 @@ HOBART12  57370.940052
 YARRA12M  57371.028252
 YARRA12M  57371.480775
 HOBART12  57371.632402
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 1
 KATH12M 
 TSUKUB32
 RAEGYEB 
@@ -21,6 +21,9 @@ NO CABLE CAL: 0
 # Name: David Mayer
 # Date: 2016 05 19
 # Additional analysis comments (optional): YEBES40M/RAEGYEB is noisy due to AC problems
+
+# Hana Krasna, 2020-12-15
+# TSUKUB32 put back
 
 # example
 # =============================================

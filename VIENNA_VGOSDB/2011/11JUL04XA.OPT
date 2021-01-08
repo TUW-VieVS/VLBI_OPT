@@ -5,13 +5,13 @@ CLOCK BREAKS: 1
 ZELENCHK  55747.384120
 
 
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 MEDICINA  SVETLOE 
 MATERA    MEDICINA
 
 
 
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 CRIMEA       
 ZELENCHK
 
@@ -24,3 +24,6 @@ ZELENCHK
 # Name: David Mayer
 # Date: 2016-01-06
 # Additional analysis comments (optional): session is really bad, exclude ZELENCHK and the baseline MEDICINA  SVETLOE to get a reasonable solution --> not sure
+
+# Hana Krasna, 02-12-2020
+# bas-dep clock offsets, crimea is noisy but coor estimates look ok

@@ -5,7 +5,7 @@ YARRA12M  58147.823843
 YARRA12M  58148.040156
 YARRA12M  58148.669653
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 1
+BASELINES TO BE EXCLUDED: 0
 NYALES20 SEJONG
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -18,6 +18,9 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 18. Feb 2020
 # Additional analysis comments (optional): baseline NYALES20 SEJONG excluded
+
+# Hana Krasna, 2020-12-16
+# bas-dep clock offset
 
 # example
 # =============================================

@@ -3,7 +3,7 @@ ISHIOKA
 CLOCK BREAKS: 2
 KASHIM34  58456.008490
 YARRA12M  58456.470214
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 SEJONG
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -14,6 +14,7 @@ NO CABLE CAL: 0
 # Date: 2019-02-12
 # Additional analysis comments (optional): All baseline residuals with SEJONG have an offset
 
+# Hana Krasna, 2020-12-04
 
 # example
 # =============================================

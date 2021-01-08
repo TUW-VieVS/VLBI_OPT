@@ -1,6 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 3
+BASELINES TO BE EXCLUDED: 0
 WETTZ13N URUMQI
 KOKEE    URUMQI
 HART15M  URUMQI
@@ -16,6 +16,8 @@ NYALES20
 # Name: Anna Zessner-Spitzenberg
 # Date: 19. Feb 2020
 # Additional analysis comments (optional): baselines excluded
+
+# Hana Krasna, 2020-12-04
 
 # example
 # =============================================

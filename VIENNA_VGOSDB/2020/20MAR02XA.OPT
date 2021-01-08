@@ -2,7 +2,7 @@ CLOCK BREAKS: 2
 YARRA12M  58910.889797
 YARRA12M  58910.963247
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 NYALES20 SEJONG
 WETTZ13N SEJONG
 SOURCES TO BE EXCLUDED: 0
@@ -13,6 +13,9 @@ NO CABLE CAL: 0
 # Date: 20. March 2020
 # Additional analysis comments (optional):
 
+# Name: Hana Krasna
+# Date: 12-Nov-2020
+# Additional analysis comments (optional): estimate bas-dep clock offsets
 
 # example
 # =============================================

@@ -6,10 +6,10 @@ SEJONG    58212.263484
 YARRA12M  58212.456071
 STATIONS TO BE EXCLUDED: 0
 ISHIOKA
-BASELINES TO BE EXCLUDED: 3
+BASELINES TO BE EXCLUDED: 1
+WETTZELL WETTZ13N
 WARK12M  SEJONG
 NYALES20 SEJONG
-WETTZELL WETTZ13N
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
@@ -21,6 +21,8 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 19. Feb 2020
 # Additional analysis comments (optional): updated
+
+# Hana Krasna, 2020-12-04
 
 # example
 # =============================================

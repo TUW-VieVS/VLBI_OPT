@@ -2,7 +2,7 @@ CLOCK REFERENCE:
 KASHIM34
 CLOCK BREAKS: 1
 MEDICINA  55300.627130
-STATIONS TO BE EXCLUDED: 5
+STATIONS TO BE EXCLUDED: 0
 CRIMEA
 CHICHI10
 AIRA    
@@ -14,6 +14,9 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/10
+
+# Hana Krasna, 2020-12-09
+# no need to exclude stations
 
 # example
 # =============================================

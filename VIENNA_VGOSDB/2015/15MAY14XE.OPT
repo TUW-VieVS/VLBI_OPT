@@ -4,7 +4,7 @@ HOBART12  57157.520226
 HOBART12  57157.629531
 
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 7
+BASELINES TO BE EXCLUDED: 0
 HART15M   HOBART12
 ZELENCHK  KATH12M 
 ZELENCHK  HOBART12
@@ -25,6 +25,9 @@ NO CABLE CAL: 0
 # Name: Update David Mayer
 # Date: 2016-07-27
 # Additional analysis comments (optional): exclude baselines
+
+# Hana Krasna 30-11-2020
+# bas-dep clock offsets
 
 # example
 # STATIONS MUST HAVE 8 CHARACTERS (add blanks!)

@@ -2,7 +2,7 @@ CLOCK BREAKS: 2
 YARRA12M  58225.090006
 YARRA12M  58225.445226
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 NYALES20  SEJONG
 SESHAN25  SEJONG
 SOURCES TO BE EXCLUDED: 0
@@ -17,6 +17,9 @@ MATERA
 # Name: Anna Zessner-Spitzenberg
 # Date: 19. Feb 2020
 # Additional analysis comments (optional): baselines excluded and no cable cal at MATERA
+
+# Hana Krasna, 2020-12-04
+# bas-dep clock offset
 
 # example
 # =============================================

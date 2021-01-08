@@ -1,6 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 HOBART26 KASHIM11
 KASHIM11 NYALES20
 SOURCES TO BE EXCLUDED: 0
@@ -14,6 +14,10 @@ NO CABLE CAL: 0
 # Name: Anna Zessner-Spitzenberg
 # Date: 25. Feb 2020
 # Additional analysis comments (optional): baselines excluded 
+
+# Hana Krasna, 2020-12-03
+# bas-dep clock offset
+
 
 # example
 # =============================================
