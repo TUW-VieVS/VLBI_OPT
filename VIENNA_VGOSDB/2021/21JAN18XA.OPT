@@ -1,9 +1,14 @@
 CLOCK REFERENCE:
-WETTZELL
-CLOCK BREAKS: 1
-YARRA12M  59218.997471
-STATIONS TO BE EXCLUDED: 1
-NYALE13S
+WETTZ13N
+CLOCK BREAKS: 7
+HOBART26  59232.946522
+SEJONG    59233.135625
+SEJONG    59233.201794
+SEJONG    59233.422633
+YARRA12M  59233.465492
+SEJONG    59233.471973
+SEJONG    59233.552975
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -11,9 +16,12 @@ NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 -BASELINE-DEPENDENT CLOCK OFFSET
 
-# Name: Johannes
-# Date: 15 Jan 2021
-# Additional analysis comments (optional):  upd. Hana Krasna 03-02-2021
+# Name: <Hana Krasna>
+# Date: <03-02-2021>
+# Additional analysis comments (optional): analysis report: SEJONG has saw-like residuals
+# at the second half of the session, some obsevations
+# were deselected and clock breaks were added to compensate such behavior
+
 
 
 # example
