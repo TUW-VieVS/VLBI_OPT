@@ -1,10 +1,9 @@
 CLOCK REFERENCE:
-WETTZ13N
+WETTZELL
 CLOCK BREAKS: 2
-YARRA12M  59275.037234
-YARRA12M  59275.510104
-STATIONS TO BE EXCLUDED: 1
-MATERA    
+YARRA12M  59281.978929
+YARRA12M  59282.456753
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -13,8 +12,8 @@ NO CABLE CAL: 0
 -BASELINE-DEPENDENT CLOCK OFFSET
 
 # Name: Johannes
-# Date: 17 March 2021, updated 20 March 2021
-# Additional analysis comments (optional): MATERA was removed because there are only a few observations
+# Date: 20 March 2021
+# Additional analysis comments (optional):
 
 
 # example
