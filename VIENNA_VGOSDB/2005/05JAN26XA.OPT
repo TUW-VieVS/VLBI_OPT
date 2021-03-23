@@ -1,8 +1,10 @@
-CLOCK REFERENCE:
-HOBART26
-CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED:   0
-SYOWA      
-
-# Johannes Boehm 12 April 2010
-# not sure perhaps Syowa should be excluded
+CLOCK REFERENCE: 
+HOBART26 
+CLOCK BREAKS:   0 
+STATIONS TO BE EXCLUDED:   0 
+SYOWA       
+ 
+# Johannes Boehm 12 April 2010 
+# not sure perhaps Syowa should be excluded 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

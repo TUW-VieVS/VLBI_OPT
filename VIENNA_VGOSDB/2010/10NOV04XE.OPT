@@ -1,11 +1,15 @@
-CLOCK REFERENCE:
-MATERA 
-CLOCK BREAKS: 2
-HOBART12  55505.14
-HOBART12  55505.24
-STATIONS TO BE EXCLUDED: 0
-
-# Sigrid Boehm, 2010-11-22
-# outliers
-# it seems there are some problems 
-# with TIGO, maybe exclude it
+CLOCK REFERENCE: 
+MATERA  
+CLOCK BREAKS: 2 
+HOBART12  55505.14 
+HOBART12  55505.24 
+STATIONS TO BE EXCLUDED: 0 
+ 
+# Sigrid Boehm, 2010-11-22 
+# outliers 
+# it seems there are some problems  
+# with TIGO, maybe exclude it 
++BASELINE-DEPENDENT CLOCK OFFSET
+HOBART26  NYALES20 
+KOKEE     NYALES20 
+-BASELINE-DEPENDENT CLOCK OFFSET

@@ -1,58 +1,79 @@
-CLOCK BREAKS: 5
-YEBES40M  58094.140324
-MATERA    58094.147703
-MATERA    58094.228698
-MATERA    58094.526470
-MATERA    58094.632280
-STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 0
-SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 1
-WETTZELL
-
-# Name: A.Girdiuk
-# Date: 2-Jan-2017
-# Additional analysis comments (optional):
-# outliers, IVS Analysis: Data report is available only
-
-# Name: David Mayer
-# Date: 2018-05-24
-# Additional analysis comments (optional): KASHIM11 is very noisy, WETTZELL must be removed and MATERA has a very unstable clock
-
-# Name: Sigrid Boehm
-# Date: 2019-03-26
-# Additional analysis comments (optional): WETTZELL can be kept if NO CABLE CAL is added.
-
-# example
-# =============================================
-# CLOCK REFERENCE:
-# WETTZELL
-#
-# CLOCK BREAKS: 2
-# BADARY    55454.4
-# WETTZELL  55372.369
-#
-# STATIONS TO BE EXCLUDED: 5
-# MATERA  
-# WETTZELL
-# MATERA   YYMMDDhhmm-YYMMDDhhmm
-# WETTZELL YYMMDDhhmm-YYMMDDhhmm
-# BADARY   MJD1-MJD2
-#
-# BASELINES TO BE EXCLUDED: 3
-# WETTZELL  ZELENCHK
-# SVETLOE   ZELENCHK
-# BADARY    ZELENCHK
-#
-# SOURCES TO BE EXCLUDED: 1
-# 1936+095
-# 2356+385 YYMMDDhhmm-YYMMDDhhmm
-#
-# STATIONS TO BE DOWN-WEIGHTED (NOISE IN [m]): 2
-# MATERA   0.040
-# WETTZELL 0.020
-#
-# NO CABLE CAL: 2
-# WETTZELL
-# MATERA  
+CLOCK BREAKS: 5 
+YEBES40M  58094.140324 
+MATERA    58094.147703 
+MATERA    58094.228698 
+MATERA    58094.526470 
+MATERA    58094.632280 
+STATIONS TO BE EXCLUDED: 0 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 1 
+WETTZELL 
+ 
+# Name: A.Girdiuk 
+# Date: 2-Jan-2017 
+# Additional analysis comments (optional): 
+# outliers, IVS Analysis: Data report is available only 
+ 
+# Name: David Mayer 
+# Date: 2018-05-24 
+# Additional analysis comments (optional): KASHIM11 is very noisy, WETTZELL must be removed and MATERA has a very unstable clock 
+ 
+# Name: Sigrid Boehm 
+# Date: 2019-03-26 
+# Additional analysis comments (optional): WETTZELL can be kept if NO CABLE CAL is added. 
+ 
+# example 
+# ============================================= 
+# CLOCK REFERENCE: 
+# WETTZELL 
+# 
+# CLOCK BREAKS: 2 
+# BADARY    55454.4 
+# WETTZELL  55372.369 
+# 
+# STATIONS TO BE EXCLUDED: 5 
+# MATERA   
+# WETTZELL 
+# MATERA   YYMMDDhhmm-YYMMDDhhmm 
+# WETTZELL YYMMDDhhmm-YYMMDDhhmm 
+# BADARY   MJD1-MJD2 
+# 
+# BASELINES TO BE EXCLUDED: 3 
+# WETTZELL  ZELENCHK 
+# SVETLOE   ZELENCHK 
+# BADARY    ZELENCHK 
+# 
+# SOURCES TO BE EXCLUDED: 1 
+# 1936+095 
+# 2356+385 YYMMDDhhmm-YYMMDDhhmm 
+# 
+# STATIONS TO BE DOWN-WEIGHTED (NOISE IN [m]): 2 
+# MATERA   0.040 
+# WETTZELL 0.020 
+# 
+# NO CABLE CAL: 2 
+# WETTZELL 
+# MATERA   
++BASELINE-DEPENDENT CLOCK OFFSET
+HART15M   KASHIM11 
+HOBART26  KASHIM11 
+HOBART26  NYALES20 
+HOBART26  WARK12M  
+HOBART26  YEBES40M 
+HOBART26  ZELENCHK 
+KASHIM11  KATH12M  
+KASHIM11  KOKEE    
+KASHIM11  NYALES20 
+KASHIM11  ONSALA60 
+KASHIM11  WARK12M  
+KASHIM11  WETTZELL 
+KASHIM11  YEBES40M 
+KASHIM11  ZELENCHK 
+MATERA    NYALES20 
+MATERA    YEBES40M 
+MATERA    ZELENCHK 
+NYALES20  ZELENCHK 
+YEBES40M  ZELENCHK 
+-BASELINE-DEPENDENT CLOCK OFFSET

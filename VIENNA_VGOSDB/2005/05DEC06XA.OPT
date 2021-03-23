@@ -1,12 +1,24 @@
-CLOCK REFERENCE:
-HOBART26
-CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED:   0
-SESHAN25
-
-
-# Johannes Boehm 12 April 2010
-# it looks like a matter of taste whether deleting Urumqui or Seshan
-
-# Hana Krasna 30-11-2020
-# bas-dep clock offsets
+CLOCK REFERENCE: 
+HOBART26 
+CLOCK BREAKS:   0 
+STATIONS TO BE EXCLUDED:   0 
+SESHAN25 
+ 
+ 
+# Johannes Boehm 12 April 2010 
+# it looks like a matter of taste whether deleting Urumqui or Seshan 
+ 
+# Hana Krasna 30-11-2020 
+# bas-dep clock offsets 
++BASELINE-DEPENDENT CLOCK OFFSET
+GILCREEK  SESHAN25 
+GILCREEK  URUMQI   
+KOKEE     PARKES   
+KOKEE     SESHAN25 
+KOKEE     URUMQI   
+PARKES    SESHAN25 
+PARKES    TSUKUB32 
+SESHAN25  TSUKUB32 
+SESHAN25  URUMQI   
+TSUKUB32  URUMQI   
+-BASELINE-DEPENDENT CLOCK OFFSET

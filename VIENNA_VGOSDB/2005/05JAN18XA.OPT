@@ -1,10 +1,13 @@
-CLOCK REFERENCE:
-WETTZELL
-CLOCK BREAKS:   0
-GILCREEK   53388.815
-STATIONS TO BE EXCLUDED:   1
-GILCREEK
-
-
-# Johannes Boehm 12 April 2010
-# perhaps Gilcreek could be repaired with clock break plus outliers
+CLOCK REFERENCE: 
+WETTZELL 
+CLOCK BREAKS:   0 
+GILCREEK   53388.815 
+STATIONS TO BE EXCLUDED:   1 
+GILCREEK 
+ 
+ 
+# Johannes Boehm 12 April 2010 
+# perhaps Gilcreek could be repaired with clock break plus outliers 
++BASELINE-DEPENDENT CLOCK OFFSET
+HARTRAO   TSUKUB32 
+-BASELINE-DEPENDENT CLOCK OFFSET

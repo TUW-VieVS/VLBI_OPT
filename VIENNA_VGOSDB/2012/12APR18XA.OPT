@@ -1,18 +1,27 @@
-CLOCK REFERENCE:
-WETTZELL
-
-SOURCES TO BE EXCLUDED: 1
-0833-450
-   
-
-# Jing SUN, 2012-06-05
-# 24 sources are not included in CRF
-
-
-
-# Hana Krasna, 13 Jun 2013
-# estimate VCS sources
-
-# Name: David Mayer
-# Date: 2016-12-06
-# Additional analysis comments (optional): update: Sources removed according to Goddard list 
+CLOCK REFERENCE: 
+WETTZELL 
+ 
+SOURCES TO BE EXCLUDED: 1 
+0833-450 
+    
+ 
+# Jing SUN, 2012-06-05 
+# 24 sources are not included in CRF 
+ 
+ 
+ 
+# Hana Krasna, 13 Jun 2013 
+# estimate VCS sources 
+ 
+# Name: David Mayer 
+# Date: 2016-12-06 
+# Additional analysis comments (optional): update: Sources removed according to Goddard list  
++BASELINE-DEPENDENT CLOCK OFFSET
+FD-VLBA   HARTRAO  
+HARTRAO   HN-VLBA  
+HARTRAO   LA-VLBA  
+HARTRAO   SC-VLBA  
+HARTRAO   WESTFORD 
+KP-VLBA   LA-VLBA  
+KP-VLBA   WESTFORD 
+-BASELINE-DEPENDENT CLOCK OFFSET

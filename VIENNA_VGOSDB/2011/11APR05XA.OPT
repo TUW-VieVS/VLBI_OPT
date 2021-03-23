@@ -1,2 +1,16 @@
-# RDV 86: estimate source coordinates that are not inculded in CRF !!!
-# Lucia Plank, Aug 2011 
+# RDV 86: estimate source coordinates that are not inculded in CRF !!! 
+# Lucia Plank, Aug 2011  
++BASELINE-DEPENDENT CLOCK OFFSET
+FD-VLBA   HN-VLBA  
+FD-VLBA   TSUKUB32 
+HN-VLBA   KP-VLBA  
+HN-VLBA   SC-VLBA  
+HN-VLBA   WESTFORD 
+KP-VLBA   LA-VLBA  
+KP-VLBA   TSUKUB32 
+LA-VLBA   SC-VLBA  
+NL-VLBA   SC-VLBA  
+NYALES20  TSUKUB32 
+OV-VLBA   TSUKUB32 
+SC-VLBA   TSUKUB32 
+-BASELINE-DEPENDENT CLOCK OFFSET

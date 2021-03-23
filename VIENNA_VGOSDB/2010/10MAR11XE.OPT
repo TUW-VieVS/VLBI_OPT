@@ -1,8 +1,11 @@
-CLOCK REFERENCE:
-WETTZELL
-CLOCK BREAKS: 1
-BADARY    55267.105567
-
-# Name: David Mayer
-# Date: 2016-01-06
-# Additional analysis comments (optional):
+CLOCK REFERENCE: 
+WETTZELL 
+CLOCK BREAKS: 1 
+BADARY    55267.105567 
+ 
+# Name: David Mayer 
+# Date: 2016-01-06 
+# Additional analysis comments (optional): 
++BASELINE-DEPENDENT CLOCK OFFSET
+MATERA    WESTFORD 
+-BASELINE-DEPENDENT CLOCK OFFSET

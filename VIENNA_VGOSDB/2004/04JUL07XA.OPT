@@ -1,6 +1,8 @@
-STATIONS TO BE EXCLUDED: 2
-KOKEE     
-WETTZELL  
-# Tobias Nilsson, 24 Nov 2010
-# Wettzell Kokee observed intensive like sessions, no common cscans with the
-# other stations
+STATIONS TO BE EXCLUDED: 2 
+KOKEE      
+WETTZELL   
+# Tobias Nilsson, 24 Nov 2010 
+# Wettzell Kokee observed intensive like sessions, no common cscans with the 
+# other stations 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

@@ -1,12 +1,15 @@
-CLOCK BREAKS:   0
-BASELINES TO BE EXCLUDED: 0
-NL-VLBA GILCREEK
-# Sigrid Böhm 18. August 2010
-# outliers
-
-# Anna Zessner-Spitzenberg, 16. APR 2020
-# Hana Krasna, 27 Nov 2020
-# estimate baseline-dep clocks
-
-
-
+CLOCK BREAKS:   0 
+BASELINES TO BE EXCLUDED: 0 
+NL-VLBA GILCREEK 
+# Sigrid BÃ¶hm 18. August 2010 
+# outliers 
+ 
+# Anna Zessner-Spitzenberg, 16. APR 2020 
+# Hana Krasna, 27 Nov 2020 
+# estimate baseline-dep clocks 
+ 
+ 
+ 
++BASELINE-DEPENDENT CLOCK OFFSET
+NL-VLBA   GILCREEK 
+-BASELINE-DEPENDENT CLOCK OFFSET

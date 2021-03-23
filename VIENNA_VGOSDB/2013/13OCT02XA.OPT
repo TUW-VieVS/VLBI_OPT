@@ -1,42 +1,44 @@
-CLOCK REFERENCE:
-WETTZELL  
-CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0 
-BASELINES TO BE EXCLUDED: 5
-HOBART26  NYALES20 
-HOBART26  ONSALA60 
-HOBART26  WESTFORD
-HOBART26  WETTZELL
-HARTRAO   KOKEE         
-SOURCES TO BE EXCLUDED: 0
-0325+395  
-NO CABLE CAL: 1
-WESTFORD
-
-# 2013-11-26 S. Boehm
-
-# Hana Kr·sn·, 30 Jan 2014
-# do not exclude the source, but estimate it (its icrf2 coordinates are false)
-# baselines and cable cal. excluded according to the analysis report
-
-
-
-# example
-# ============================
-# CLOCK REFERENCE:
-# WETTZELL
-#
-# CLOCK BREAKS: 2
-# BADARY    55454.4
-# WETTZELL  55372.369
-#
-# STATIONS TO BE EXCLUDED: 1
-# MATERA  
-#
-# BASELINES TO BE EXCLUDED: 3
-# WETTZELL  ZELENCHK
-# SVETLOE   ZELENCHK
-# BADARY    ZELENCHK
-#
-# SOURCES TO BE EXCLUDED: 1
-# 1936+095
+CLOCK REFERENCE: 
+WETTZELL   
+CLOCK BREAKS: 0 
+STATIONS TO BE EXCLUDED: 0  
+BASELINES TO BE EXCLUDED: 5 
+HOBART26  NYALES20  
+HOBART26  ONSALA60  
+HOBART26  WESTFORD 
+HOBART26  WETTZELL 
+HARTRAO   KOKEE          
+SOURCES TO BE EXCLUDED: 0 
+0325+395   
+NO CABLE CAL: 1 
+WESTFORD 
+ 
+# 2013-11-26 S. Boehm 
+ 
+# Hana Kr√°sn√°, 30 Jan 2014 
+# do not exclude the source, but estimate it (its icrf2 coordinates are false) 
+# baselines and cable cal. excluded according to the analysis report 
+ 
+ 
+ 
+# example 
+# ============================ 
+# CLOCK REFERENCE: 
+# WETTZELL 
+# 
+# CLOCK BREAKS: 2 
+# BADARY    55454.4 
+# WETTZELL  55372.369 
+# 
+# STATIONS TO BE EXCLUDED: 1 
+# MATERA   
+# 
+# BASELINES TO BE EXCLUDED: 3 
+# WETTZELL  ZELENCHK 
+# SVETLOE   ZELENCHK 
+# BADARY    ZELENCHK 
+# 
+# SOURCES TO BE EXCLUDED: 1 
+# 1936+095 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

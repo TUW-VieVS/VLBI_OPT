@@ -1,14 +1,16 @@
-CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED:   0
-SOURCES TO BE EXCLUDED: 2
-0001-121
-1524-136
-# Sigrid Böhm 18. August 2010
-# outliers
-
-# Name: David Mayer
-# Date: 2016-12-06
-# Additional analysis comments (optional): update: Sources removed according to Goddard list 
-# Name: Anna Zessner-Spitzenberg
-# Date: 13 MAY 2020
-# Additional analysis comments (optional): update: Source 0001-136 removed
+CLOCK BREAKS:   0 
+STATIONS TO BE EXCLUDED:   0 
+SOURCES TO BE EXCLUDED: 2 
+0001-121 
+1524-136 
+# Sigrid BÃ¶hm 18. August 2010 
+# outliers 
+ 
+# Name: David Mayer 
+# Date: 2016-12-06 
+# Additional analysis comments (optional): update: Sources removed according to Goddard list  
+# Name: Anna Zessner-Spitzenberg 
+# Date: 13 MAY 2020 
+# Additional analysis comments (optional): update: Source 0001-136 removed 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

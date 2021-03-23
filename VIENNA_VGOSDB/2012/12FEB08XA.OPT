@@ -1,31 +1,37 @@
-SOURCES TO BE EXCLUDED: 0
-0145+420
-0201+398
-0306-061
-0405-015
-1325-133
-2005+737
-2225+247
-1802-046
-2253+227
-0008-311
-0514-156
-0716+332
-0608-187
-0807+103
-0916+336
-1129-161
-1210-246
-1458+088
-1740-190
-1917-386
-
-
-# Jing SUN, 2012-04-09
-# 7 requested sources are oberved in this session
-# 20 sources are not found in ICRF
-
-
-
-# Hana Krasna, Jun 14 2013
-# estimate the VCS sources! Do not delete them!
+SOURCES TO BE EXCLUDED: 0 
+0145+420 
+0201+398 
+0306-061 
+0405-015 
+1325-133 
+2005+737 
+2225+247 
+1802-046 
+2253+227 
+0008-311 
+0514-156 
+0716+332 
+0608-187 
+0807+103 
+0916+336 
+1129-161 
+1210-246 
+1458+088 
+1740-190 
+1917-386 
+ 
+ 
+# Jing SUN, 2012-04-09 
+# 7 requested sources are oberved in this session 
+# 20 sources are not found in ICRF 
+ 
+ 
+ 
+# Hana Krasna, Jun 14 2013 
+# estimate the VCS sources! Do not delete them! 
++BASELINE-DEPENDENT CLOCK OFFSET
+HN-VLBA   OV-VLBA  
+NL-VLBA   PIETOWN  
+OV-VLBA   PIETOWN  
+SC-VLBA   TSUKUB32 
+-BASELINE-DEPENDENT CLOCK OFFSET

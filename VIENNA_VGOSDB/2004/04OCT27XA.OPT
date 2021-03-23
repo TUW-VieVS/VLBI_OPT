@@ -1,5 +1,9 @@
-STATIONS TO BE EXCLUDED: 2
-WETTZELL
-KOKEE     
-# Tobias Nilsson, 24 Nov, 2010
-# Wettzell & Kokee intensive like obs
+STATIONS TO BE EXCLUDED: 2 
+WETTZELL 
+KOKEE      
+# Tobias Nilsson, 24 Nov, 2010 
+# Wettzell & Kokee intensive like obs 
++BASELINE-DEPENDENT CLOCK OFFSET
+ALGOPARK  TSUKUB32 
+TSUKUB32  WESTFORD 
+-BASELINE-DEPENDENT CLOCK OFFSET

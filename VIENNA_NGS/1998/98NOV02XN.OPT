@@ -1,15 +1,20 @@
-CLOCK BREAKS: 2
-NOTO      51120.187384
-NOTO      51120.344792
-BASELINES TO BE EXCLUDED: 0
+CLOCK BREAKS: 2 
+NOTO      51120.187384 
+NOTO      51120.344792 
+BASELINES TO BE EXCLUDED: 0 
+KOKEE     NRAO20    
+NOTO      NRAO20     
+KOKEE     NOTO     
+SOURCES TO BE EXCLUDED: 0  
+0437-454 
+   
+# Tobias Nilsson, 25 Nov, 2010 
+# Caroline Schoenberger, 2016/03/14 
+# Hana Krasna, 27 Nov 2020 
+# estimate baseline-dep clocks 
+ 
++BASELINE-DEPENDENT CLOCK OFFSET
 KOKEE     NRAO20   
-NOTO      NRAO20    
-KOKEE     NOTO    
-SOURCES TO BE EXCLUDED: 0 
-0437-454
-  
-# Tobias Nilsson, 25 Nov, 2010
-# Caroline Schoenberger, 2016/03/14
-# Hana Krasna, 27 Nov 2020
-# estimate baseline-dep clocks
-
+KOKEE     NOTO     
+NRAO20    NOTO     
+-BASELINE-DEPENDENT CLOCK OFFSET

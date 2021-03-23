@@ -1,13 +1,20 @@
-CLOCK REFERENCE:
-WETTZELL
-CLOCK BREAKS:  1
-METSAHOV   53618.800
-STATIONS TO BE EXCLUDED:   0
-METSAHOV
-
-
-# Johannes Boehm 12 April 2010
-# not sure perhaps Metsahovi only has bad coordinates
-
-# Hana Krasna, 02-12-2020
-# bas-dep clock offset
+CLOCK REFERENCE: 
+WETTZELL 
+CLOCK BREAKS:  1 
+METSAHOV   53618.800 
+STATIONS TO BE EXCLUDED:   0 
+METSAHOV 
+ 
+ 
+# Johannes Boehm 12 April 2010 
+# not sure perhaps Metsahovi only has bad coordinates 
+ 
+# Hana Krasna, 02-12-2020 
+# bas-dep clock offset 
++BASELINE-DEPENDENT CLOCK OFFSET
+MEDICINA  METSAHOV 
+MEDICINA  NYALES20 
+MEDICINA  ONSALA60 
+METSAHOV  NYALES20 
+NYALES20  ONSALA60 
+-BASELINE-DEPENDENT CLOCK OFFSET

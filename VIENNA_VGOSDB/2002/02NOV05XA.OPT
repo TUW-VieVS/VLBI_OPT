@@ -1,6 +1,8 @@
-CLOCK REFERENCE:
-TSUKUB32
-CLOCK BREAKS: 1
-URUMQI    52584.18
-# Tobias Nilsson, April 15, 2010
-# Special parameterization: Shshan should have loose clock constr.
+CLOCK REFERENCE: 
+TSUKUB32 
+CLOCK BREAKS: 1 
+URUMQI    52584.18 
+# Tobias Nilsson, April 15, 2010 
+# Special parameterization: Shshan should have loose clock constr. 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

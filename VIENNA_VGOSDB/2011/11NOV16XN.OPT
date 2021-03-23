@@ -1,18 +1,21 @@
-CLOCK BREAKS: 3
-KATH12M   55881.830347
-KATH12M   55881.973715
-YARRA12M  55882.129745
-NO CABLE CAL: 1
-YARRA12M 
-BASELINES TO BE EXCLUDED: 0
-STATIONS TO BE EXCLUDED: 0
-
-# 4 stations. Matrix is singular
-
-# 17/12/2012 Virginia Raposo
-
-# Name: Anna Zessner-Spitzenberg
-# Date: 28 May 2020
-# Additional analysis comments (optional): added clock break at YARRA12M
-
-
+CLOCK BREAKS: 3 
+KATH12M   55881.830347 
+KATH12M   55881.973715 
+YARRA12M  55882.129745 
+NO CABLE CAL: 1 
+YARRA12M  
+BASELINES TO BE EXCLUDED: 0 
+STATIONS TO BE EXCLUDED: 0 
+ 
+# 4 stations. Matrix is singular 
+ 
+# 17/12/2012 Virginia Raposo 
+ 
+# Name: Anna Zessner-Spitzenberg 
+# Date: 28 May 2020 
+# Additional analysis comments (optional): added clock break at YARRA12M 
+ 
+ 
++BASELINE-DEPENDENT CLOCK OFFSET
+HOBART12  KATH12M  
+-BASELINE-DEPENDENT CLOCK OFFSET

@@ -1,5 +1,7 @@
-CLOCK BREAKS: 0
-CLOCK REFERENCE: 
-KOKEE   
-# Tobias Nilsson, April 7, 2010
-# Special parameterization: Syowa needs loose clock constraints
+CLOCK BREAKS: 0 
+CLOCK REFERENCE:  
+KOKEE    
+# Tobias Nilsson, April 7, 2010 
+# Special parameterization: Syowa needs loose clock constraints 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

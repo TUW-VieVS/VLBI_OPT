@@ -1,14 +1,16 @@
-CLOCK BREAKS: 0
-CLOCK REFERENCE:
-KOKEE   
-STATIONS TO BE EXCLUDED: 2
-HARTRAO  53304.70-53304.90
-SYOWA
-BASELINES TO BE EXCLUDED: 2
-FORTLEZA HOBART26
-OHIGGINS TIGOCONC
-
-# Tobias Nilsson, April 1, 2010
-# No sure, still high chi2 (2.4)
-# special parameterization: loose clock constr.
-# Caroline Schoenberger, 2016/02/22
+CLOCK BREAKS: 0 
+CLOCK REFERENCE: 
+KOKEE    
+STATIONS TO BE EXCLUDED: 2 
+HARTRAO  53304.70-53304.90 
+SYOWA 
+BASELINES TO BE EXCLUDED: 2 
+FORTLEZA HOBART26 
+OHIGGINS TIGOCONC 
+ 
+# Tobias Nilsson, April 1, 2010 
+# No sure, still high chi2 (2.4) 
+# special parameterization: loose clock constr. 
+# Caroline Schoenberger, 2016/02/22 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

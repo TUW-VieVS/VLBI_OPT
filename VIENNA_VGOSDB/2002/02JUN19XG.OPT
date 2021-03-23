@@ -1,4 +1,6 @@
-CLOCK REFERENCE:
-ALGOPARK
-# Tobias Nilsson, April 16, 2010
-# Special parameterization: station CTVASBAY requires loose clock constraints
+CLOCK REFERENCE: 
+ALGOPARK 
+# Tobias Nilsson, April 16, 2010 
+# Special parameterization: station CTVASBAY requires loose clock constraints 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

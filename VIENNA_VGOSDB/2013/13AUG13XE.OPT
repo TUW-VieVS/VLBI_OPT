@@ -1,9 +1,11 @@
-CLOCK REFERENCE:
-FORTLEZA
-
-CLOCK BREAKS: 0
-
-# outliers
-# seems as unsolved ambiguities
-# Hana Kr·sn·, 29 Aug 2013
-
+CLOCK REFERENCE: 
+FORTLEZA 
+ 
+CLOCK BREAKS: 0 
+ 
+# outliers 
+# seems as unsolved ambiguities 
+# Hana Kr√°sn√°, 29 Aug 2013 
+ 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

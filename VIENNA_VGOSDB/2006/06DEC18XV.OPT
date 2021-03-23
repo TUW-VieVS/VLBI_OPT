@@ -1,13 +1,15 @@
-CLOCK REFERENCE:
-PIETOWN
-CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED: 0
-SOURCES TO BE EXCLUDED: 1
-0409-280
-
-# Hana Spicakova 12 March 2010
-# outliers
-
-# Name: David Mayer
-# Date: 2016-12-06
-# Additional analysis comments (optional): update: Sources removed according to Goddard list 
+CLOCK REFERENCE: 
+PIETOWN 
+CLOCK BREAKS:   0 
+STATIONS TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 1 
+0409-280 
+ 
+# Hana Spicakova 12 March 2010 
+# outliers 
+ 
+# Name: David Mayer 
+# Date: 2016-12-06 
+# Additional analysis comments (optional): update: Sources removed according to Goddard list  
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

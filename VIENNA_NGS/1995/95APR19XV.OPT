@@ -1,11 +1,17 @@
-CLOCK BREAKS:   0 
-STATIONS TO BE EXCLUDED:   0 
-SOURCES TO BE EXCLUDED: 2 
-1339+696
-2236+678
-# Sigrid Böhm 18. August 2010
-# outliers
-
-# Name: David Mayer
-# Date: 2016-12-06
-# Additional analysis comments (optional): update: Sources removed according to Goddard list 
+CLOCK BREAKS:   0  
+STATIONS TO BE EXCLUDED:   0  
+SOURCES TO BE EXCLUDED: 2  
+1339+696 
+2236+678 
+# Sigrid BÃ¶hm 18. August 2010 
+# outliers 
+ 
+# Name: David Mayer 
+# Date: 2016-12-06 
+# Additional analysis comments (optional): update: Sources removed according to Goddard list  
++BASELINE-DEPENDENT CLOCK OFFSET
+NL-VLBA   SC-VLBA  
+OV-VLBA   SC-VLBA  
+MK-VLBA   SC-VLBA  
+SC-VLBA   HN-VLBA  
+-BASELINE-DEPENDENT CLOCK OFFSET

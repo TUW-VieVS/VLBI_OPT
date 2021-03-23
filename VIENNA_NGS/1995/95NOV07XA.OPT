@@ -1,10 +1,18 @@
-CLOCK REFERENCE:  
-HARTRAO    
-CLOCK BREAKS:   0
-STATIONS TO BE EXCLUDED:   0 
-SANTIA12        
-HOBART26             
-# Sigrid Böhm 18. August 2010
-# Hana Krasna, 27 Nov 2020
-# estimate baseline-dep clocks
-
+CLOCK REFERENCE:   
+HARTRAO     
+CLOCK BREAKS:   0 
+STATIONS TO BE EXCLUDED:   0  
+SANTIA12         
+HOBART26              
+# Sigrid BÃ¶hm 18. August 2010 
+# Hana Krasna, 27 Nov 2020 
+# estimate baseline-dep clocks 
+ 
++BASELINE-DEPENDENT CLOCK OFFSET
+BR-VLBA   SANTIA12 
+BR-VLBA   HOBART26 
+HN-VLBA   SANTIA12 
+HN-VLBA   HOBART26 
+MK-VLBA   SANTIA12 
+MK-VLBA   HOBART26 
+-BASELINE-DEPENDENT CLOCK OFFSET

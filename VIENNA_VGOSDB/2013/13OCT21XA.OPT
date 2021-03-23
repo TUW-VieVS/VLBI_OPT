@@ -1,16 +1,18 @@
-CLOCK REFERENCE:
-WETTZELL
-
-CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
-WESTFORD
-BASELINES TO BE EXCLUDED: 0
-SOURCES TO BE EXCLUDED: 0 
-0237-027
-1617+229
-NO CABLE CAL: 1
-WESTFORD
-
-#created by David Mayer
-#Westford was excluded due its noisy cable calibration. (analysis report) 
-# Caroline Schoenberger, 2016/02/22
+CLOCK REFERENCE: 
+WETTZELL 
+ 
+CLOCK BREAKS: 0 
+STATIONS TO BE EXCLUDED: 0 
+WESTFORD 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0  
+0237-027 
+1617+229 
+NO CABLE CAL: 1 
+WESTFORD 
+ 
+#created by David Mayer 
+#Westford was excluded due its noisy cable calibration. (analysis report)  
+# Caroline Schoenberger, 2016/02/22 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

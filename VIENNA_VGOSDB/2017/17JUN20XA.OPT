@@ -1,51 +1,70 @@
-CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
-KASHIM34  57924.702256-57925.135465
-BASELINES TO BE EXCLUDED: 0
-SOURCES TO BE EXCLUDED: 0
-1331-109  57925.251655-57925.574830
-1103-006  57925.143160-57925.487881
-STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
-
-# Name: A.Girdiuk
-# Date: 2-Jan-2017
-# Additional analysis comments (optional):
-# IVS Correlation Status: Waiting on tapes, there are no Analyst comments and Simulation solution 
-# currently in VieVS 235 scans:
-# Total number of observations in NGS file: 7083
-# Number of valid observations:             2968
-# Number of excluded observations:          4115
-
-# example
-# =============================================
-# CLOCK REFERENCE:
-# WETTZELL
-#
-# CLOCK BREAKS: 2
-# BADARY    55454.4
-# WETTZELL  55372.369
-#
-# STATIONS TO BE EXCLUDED: 5
-# MATERA  
-# WETTZELL
-# MATERA   YYMMDDhhmm-YYMMDDhhmm
-# WETTZELL YYMMDDhhmm-YYMMDDhhmm
-# BADARY   MJD1-MJD2
-#
-# BASELINES TO BE EXCLUDED: 3
-# WETTZELL  ZELENCHK
-# SVETLOE   ZELENCHK
-# BADARY    ZELENCHK
-#
-# SOURCES TO BE EXCLUDED: 1
-# 1936+095
-# 2356+385 YYMMDDhhmm-YYMMDDhhmm
-#
-# STATIONS TO BE DOWN-WEIGHTED (NOISE IN [m]): 2
-# MATERA   0.040
-# WETTZELL 0.020
-#
-# NO CABLE CAL: 2
-# WETTZELL
-# MATERA  
+CLOCK BREAKS: 0 
+STATIONS TO BE EXCLUDED: 0 
+KASHIM34  57924.702256-57925.135465 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0 
+1331-109  57925.251655-57925.574830 
+1103-006  57925.143160-57925.487881 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 0 
+ 
+# Name: A.Girdiuk 
+# Date: 2-Jan-2017 
+# Additional analysis comments (optional): 
+# IVS Correlation Status: Waiting on tapes, there are no Analyst comments and Simulation solution  
+# currently in VieVS 235 scans: 
+# Total number of observations in NGS file: 7083 
+# Number of valid observations:             2968 
+# Number of excluded observations:          4115 
+ 
+# example 
+# ============================================= 
+# CLOCK REFERENCE: 
+# WETTZELL 
+# 
+# CLOCK BREAKS: 2 
+# BADARY    55454.4 
+# WETTZELL  55372.369 
+# 
+# STATIONS TO BE EXCLUDED: 5 
+# MATERA   
+# WETTZELL 
+# MATERA   YYMMDDhhmm-YYMMDDhhmm 
+# WETTZELL YYMMDDhhmm-YYMMDDhhmm 
+# BADARY   MJD1-MJD2 
+# 
+# BASELINES TO BE EXCLUDED: 3 
+# WETTZELL  ZELENCHK 
+# SVETLOE   ZELENCHK 
+# BADARY    ZELENCHK 
+# 
+# SOURCES TO BE EXCLUDED: 1 
+# 1936+095 
+# 2356+385 YYMMDDhhmm-YYMMDDhhmm 
+# 
+# STATIONS TO BE DOWN-WEIGHTED (NOISE IN [m]): 2 
+# MATERA   0.040 
+# WETTZELL 0.020 
+# 
+# NO CABLE CAL: 2 
+# WETTZELL 
+# MATERA   
++BASELINE-DEPENDENT CLOCK OFFSET
+ISHIOKA   SEJONG   
+KASHIM34  KATH12M  
+KASHIM34  SEJONG   
+KASHIM34  URUMQI   
+KASHIM34  YARRA12M 
+KATH12M   KUNMING  
+KATH12M   TIANMA65 
+KATH12M   URUMQI   
+KUNMING   SEJONG   
+KUNMING   URUMQI   
+KUNMING   YARRA12M 
+SEJONG    URUMQI   
+SEJONG    WARK12M  
+SEJONG    YARRA12M 
+URUMQI    WARK12M  
+URUMQI    YARRA12M 
+WARK12M   YARRA12M 
+-BASELINE-DEPENDENT CLOCK OFFSET
