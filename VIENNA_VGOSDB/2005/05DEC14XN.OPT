@@ -1,11 +1,13 @@
-CLOCK REFERENCE:
-HOBART26
-CLOCK BREAKS: 1
-KASHIM34  53719.188831
-STATIONS TO BE EXCLUDED:   0
-
-
-# Johannes Boehm 12 April 2010
-# bad clock a Kashima
-# three stations
-# not sure whether it works at all
+CLOCK REFERENCE: 
+HOBART26 
+CLOCK BREAKS: 1 
+KASHIM34  53719.188831 
+STATIONS TO BE EXCLUDED:   0 
+ 
+ 
+# Johannes Boehm 12 April 2010 
+# bad clock a Kashima 
+# three stations 
+# not sure whether it works at all 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET
