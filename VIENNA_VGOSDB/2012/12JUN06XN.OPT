@@ -1,8 +1,10 @@
-CLOCK REFERENCE:
-KOKEE      
-
-
-# Claudia Tierno 18/07/12
-# Fix KOKEE
-# It does not work      
-
+CLOCK REFERENCE: 
+KOKEE       
+ 
+ 
+# Claudia Tierno 18/07/12 
+# Fix KOKEE 
+# It does not work       
+ 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

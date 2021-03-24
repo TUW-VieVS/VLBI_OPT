@@ -1,7 +1,9 @@
-CLOCK REFERENCE: 
-KAUAI   
-STATIONS TO BE EXCLUDED:   0
-# Sigrid Böhm 20. August 2010
-# not sure
-# does not work (matrix singular)
-
+CLOCK REFERENCE:  
+KAUAI    
+STATIONS TO BE EXCLUDED:   0 
+# Sigrid BÃ¶hm 20. August 2010 
+# not sure 
+# does not work (matrix singular) 
+ 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET
