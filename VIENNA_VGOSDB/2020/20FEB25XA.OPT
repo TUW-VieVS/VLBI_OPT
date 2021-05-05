@@ -11,7 +11,7 @@ NO CABLE CAL: 0
 # Name: <Hana Krasna> 
 # Date: <2020-10-09> 
 # Additional analysis comments (optional): HOBART12 and KATH12M observed with wrong set up, only 2 common channels are in S-band 
-# Since VieVS cannot estimate baseline dependent clocks, a lot of observations have to be deleted as outliers 
+# BCO have to be estimated
  
  
  
