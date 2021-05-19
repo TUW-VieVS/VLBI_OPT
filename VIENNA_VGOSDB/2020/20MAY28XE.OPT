@@ -1,3 +1,5 @@
+CLOCK REFERENCE:
+WETTZELL
 CLOCK BREAKS: 4 
 YARRA12M  58998.046019 
 YARRA12M  58998.181273 
@@ -8,8 +10,11 @@ BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0 
 STATIONS TO BE DOWN-WEIGHTED: 0 
 NO CABLE CAL: 0 
++BASELINE-DEPENDENT CLOCK OFFSET
+KOKEE     WARK12M  
+-BASELINE-DEPENDENT CLOCK OFFSET
  
-# Name: Helene Wolf 
+# Name: Helene Wolf, updated by Johannes on May 19, 2021 because of an updated vgosDB file 
 # Date: 22-Oct-2020 
 # Additional analysis comments (optional): 
  
