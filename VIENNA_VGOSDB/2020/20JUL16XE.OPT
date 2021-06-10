@@ -11,7 +11,10 @@ NO CABLE CAL: 0
 # Name: Sigrid Boehm 
 # Date: 2020-10-22 
 # Additional analysis comments (optional): 
- 
+# Updated VGOSDB analyzed by Frederic Jaron on 2021-06-10
+# - Set reference clock to WETTZELL
+# - Added list of BCOs
+# - 8 outliers were detected by the simple outlier test and removed from the analysis
  
 # example 
 # ============================================= 
