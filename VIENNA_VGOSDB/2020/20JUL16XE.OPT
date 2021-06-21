@@ -1,3 +1,6 @@
+CLOCK REFERENCE: 
+WETTZELL 
+
 CLOCK BREAKS: 0 
 STATIONS TO BE EXCLUDED: 0 
 BASELINES TO BE EXCLUDED: 0 
@@ -8,7 +11,10 @@ NO CABLE CAL: 0
 # Name: Sigrid Boehm 
 # Date: 2020-10-22 
 # Additional analysis comments (optional): 
- 
+# Updated VGOSDB analyzed by Frederic Jaron on 2021-06-10
+# - Set reference clock to WETTZELL
+# - Added list of BCOs
+# - 8 outliers were detected by the simple outlier test and removed from the analysis
  
 # example 
 # ============================================= 
@@ -39,5 +45,21 @@ NO CABLE CAL: 0
 # WETTZELL 
 # MATERA   
 +BASELINE-DEPENDENT CLOCK OFFSET
-HART15M   WARK12M  
+HART15M    NYALES20 
+HART15M    WARK12M  
+HART15M    WETTZ13N 
+HART15M    YARRA12M 
+HART15M    YEBES40M 
+KOKEE      NYALES20 
+KOKEE      WARK12M  
+KOKEE      WETTZ13N 
+KOKEE      YARRA12M 
+KOKEE      YEBES40M 
+NYALES20   WARK12M  
+NYALES20   WETTZ13N 
+NYALES20   YARRA12M 
+NYALES20   YEBES40M 
+WARK12M    YARRA12M 
+WETTZ13N   YARRA12M 
+WETTZ13N   YEBES40M 
 -BASELINE-DEPENDENT CLOCK OFFSET
