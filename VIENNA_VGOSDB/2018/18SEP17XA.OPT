@@ -1,7 +1,7 @@
 CLOCK BREAKS: 2 
 YARRA12M  58379.081036 
 YARRA12M  58379.147604 
-STATIONS TO BE EXCLUDED: 4 
+STATIONS TO BE EXCLUDED: 0
 NYALES20  58378.837362-58378.838462 
 NYALES20  58379.046739-58379.047939 
 WETTZ13N  58378.837737-58378.838747 
@@ -14,6 +14,9 @@ NO CABLE CAL: 0
 # Name: Daniel Landskron 
 # Date: 2018-12-05 
 # Additional analysis comments (optional): 
+
+# Hana Krasna, 2021-07-08
+# 3C48 - large difference to ICRF3 coordinates
  
  
 # example 
