@@ -1,6 +1,7 @@
 CLOCK REFERENCE: 
 WESTFORD 
-CLOCK BREAKS: 1 
+CLOCK BREAKS: 1
+RAEGYEB   58091.542130
 RAEGYEB   58091.544207 
 STATIONS TO BE EXCLUDED: 0 
 BASELINES TO BE EXCLUDED: 0 
@@ -17,6 +18,8 @@ RAEGYEB
 # Date: 2020-02-14 
 # Additional analysis comments (optional): 
 # romved cable cal for RAEGYEB 
+
+# Hana Krasna, moved clock break for RAEGYEB, 2020-07-26
  
 # example 
 # ============================================= 

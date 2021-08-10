@@ -1,6 +1,7 @@
-CLOCK BREAKS: 1 
+CLOCK BREAKS: 2
 YARRA12M  58470.030370 
-STATIONS TO BE EXCLUDED: 0 
+YARRA12M  58470.505677
+STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0 
 SOURCES TO BE EXCLUDED: 0 
 STATIONS TO BE DOWN-WEIGHTED: 0 
@@ -10,6 +11,7 @@ NO CABLE CAL: 0
 # Date: 2019-02-26 
 # Additional analysis comments (optional): 
  
+# Hana Krasna, 2021-08-09, second clock break added
  
 # example 
 # ============================================= 
