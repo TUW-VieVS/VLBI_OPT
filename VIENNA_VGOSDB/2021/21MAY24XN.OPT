@@ -7,13 +7,14 @@ SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
+HOBART26  YARRA12M 
 -BASELINE-DEPENDENT CLOCK OFFSET
 
 # Name: <Hana Krasna>
 # Date: <2021-08-17>
 # Additional analysis comments (optional): Hardly usable session, weak fringes. Only 33 observations.
 # Single session adjustment works with fixed stations. - It is a CRF session.
-
+# <updated 16-September-2021, Olivia Panzenböck>
 
 # example
 # =============================================
