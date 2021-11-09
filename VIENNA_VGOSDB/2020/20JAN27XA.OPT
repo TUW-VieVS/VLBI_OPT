@@ -1,3 +1,5 @@
+CLOCK REFERENCE: 
+WETTZELL 
 CLOCK BREAKS: 3 
 YARRA12M  58875.914931 
 YARRA12M  58875.988356 
@@ -11,7 +13,7 @@ MATERA
  
 # Name: David Mayer 
 # Date: 2020-04-08 
-# Additional analysis comments (optional): 
+# Additional analysis comments (optional): no significant bco
  
  
 # example 
@@ -42,5 +44,3 @@ MATERA
 # NO CABLE CAL: 2 
 # WETTZELL 
 # MATERA   
-+BASELINE-DEPENDENT CLOCK OFFSET
--BASELINE-DEPENDENT CLOCK OFFSET
