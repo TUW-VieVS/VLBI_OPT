@@ -23,8 +23,8 @@ HART15M
 # Name: Frederic Jaron
 # Date: <Date of OPT-file submission>
 # Additional analysis comments (optional):
-Added three clock breaks for KATH13M.
-17 outliers were detected by the simple outlier test and removed from the analysis.
+#   Added three clock breaks for KATH13M.
+#   17 outliers were detected by the simple outlier test and removed from the analysis.
 
 # example
 # =============================================
