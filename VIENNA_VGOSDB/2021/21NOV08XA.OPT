@@ -7,8 +7,7 @@ SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-MATERA    SEJONG   
-RAEGSMAR  SEJONG  
+MATERA    SEJONG  
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
@@ -16,6 +15,7 @@ RAEGSMAR  SEJONG
 # Name: Olivia Panzenböck
 # Date: 26-November-2021
 # Additional analysis comments (optional):
+# updated: 27-November-2021
 
 
 # example

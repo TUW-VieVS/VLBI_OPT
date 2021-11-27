@@ -8,7 +8,6 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 1
 MATERA
 +BASELINE-DEPENDENT CLOCK OFFSET
-ISHIOKA   RAEGSMAR 
 ISHIOKA   WETTZELL 
 NYALE13S  RAEGSMAR 
 RAEGSMAR  WETTZELL 
@@ -20,6 +19,7 @@ WETTZELL  YARRA12M
 # Name: Olivia Panzenböck
 # Date: 26-November-2021
 # Additional analysis comments (optional):
+# updated: 27-November-2021
 
 
 # example
