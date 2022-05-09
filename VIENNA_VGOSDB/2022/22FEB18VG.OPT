@@ -1,7 +1,8 @@
 CLOCK REFERENCE:
 WESTFORD
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+HOBART12
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
@@ -11,10 +12,9 @@ NO CABLE CAL: 0
 +CABLE CAL
 -CABLE CAL
 
-# Name: Johannes
-# Date: 2022-May-09
-# Additional analysis comments (optional):
-
+# Name: Leo Baldreich
+# Date: 2022-05-09
+# Additional analysis comments (optional)
 
 # example
 # =============================================
