@@ -1,5 +1,5 @@
 CLOCK BREAKS: 3
-KATH12M   59437.835677
+KATH12M   59437.838663
 KATH12M   59437.964589
 KATH12M   59438.420046
 STATIONS TO BE EXCLUDED: 0
@@ -25,6 +25,12 @@ HART15M
 # Additional analysis comments (optional):
 #   Added three clock breaks for KATH13M.
 #   17 outliers were detected by the simple outlier test and removed from the analysis.
+
+# Name: Hana Krasna
+# Date: <17-05-2022>
+# Additional analysis comments (optional): changed time of the 1st clock break - no outliers anymore
+
+#KATH12M   59437.835677
 
 # example
 # =============================================

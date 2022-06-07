@@ -13,13 +13,15 @@ HOBART12  WARK12M
 HOBART12  YARRA12M 
 KOGANEI   WARK12M  
 KOGANEI   YARRA12M 
+KUNMING   SYOWA    
 KUNMING   YARRA12M 
+SYOWA     YARRA12M 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Johannes
-# Date: 15 Feb 2022
+# Name: Andreas
+# Date: 2022-05-31
 # Additional analysis comments (optional):
 
 
