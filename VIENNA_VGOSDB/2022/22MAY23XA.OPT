@@ -1,18 +1,13 @@
-<<<<<<< HEAD
 CLOCK REFERENCE:
 WETTZELL
 CLOCK BREAKS: 1
 KOKEE     59723.111175
-=======
-CLOCK BREAKS: 0
->>>>>>> 9dccedd550c2479a6652e721945c00bf19ad5452
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-<<<<<<< HEAD
 HART15M   NOTO     
 HART15M   SEJONG   
 KOKEE     NOTO     
@@ -34,18 +29,6 @@ SEJONG    YARRA12M
 
 # Name: Sigrid Boehm
 # Date: 2022-06-07
-=======
--BASELINE-DEPENDENT CLOCK OFFSET
-+CABLE CAL
--CABLE CAL
-CLOCK REFERENCE:
-WETTZELL
-
-# Name: Frederic Jaron
-# Date: 2022/06/07
->>>>>>> 9dccedd550c2479a6652e721945c00bf19ad5452
-# Additional analysis comments (optional):
-
 
 # example
 # =============================================
