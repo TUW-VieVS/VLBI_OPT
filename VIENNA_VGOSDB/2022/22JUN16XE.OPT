@@ -1,6 +1,8 @@
 CLOCK REFERENCE:
 WETTZELL
-CLOCK BREAKS: 4
+CLOCK BREAKS: 6
+KOKEE     59746.999155
+KOKEE     59747.336128
 KOKEE     59747.436308
 KOKEE     59747.479670
 KOKEE     59747.674045
@@ -21,6 +23,7 @@ NYALES20  WETTZ13N
 # Name: Lisa Kern
 # Date: 01-07-2022
 # Additional analysis comments (optional):
+# Hana Krasna, 2022-07-10, clock breaks at Kokee changed
 
 
 # example

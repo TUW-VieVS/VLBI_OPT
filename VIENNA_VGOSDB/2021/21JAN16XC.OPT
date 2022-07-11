@@ -1,8 +1,9 @@
 CLOCK REFERENCE:
 HN-VLBA 
 CLOCK BREAKS: 2
-BR-VLBA   59230.423310
+BR-VLBA   59230.426429
 BR-VLBA   59230.580046
+BR-VLBA   59230.423310
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -16,6 +17,7 @@ NO CABLE CAL: 0
 # Name: Lisa Kern
 # Date: 30-06-2022
 # Additional analysis comments (optional):
+# Hana Krasna, 11-07-2022, 1st clock break at BR-VLBA moved
 
 
 # example
