@@ -1,24 +1,17 @@
-CLOCK REFERENCE:
-GGAO12M 
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-WETTZ13S
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-ISHIOKA   WETTZ13S 
-KOKEE12M  WETTZ13S 
-ONSA13NE  WETTZ13S 
-WESTFORD  WETTZ13S 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
 # Name: Andreas Hellerschmied
 # Date: 2022-08-09
-# Additional analysis comments (optional): WETTZ13S has no detections in bands B or C. Despite larger residuals WETTZ13S was kept in the solution.
+# Additional analysis comments (optional):
 
 
 # example
