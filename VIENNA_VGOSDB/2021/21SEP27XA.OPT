@@ -8,13 +8,20 @@ SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
+BADARY    SEJONG   
+MATERA    RAEGSMAR 
+MATERA    SVETLOE  
+NYALE13S  SEJONG   
+RAEGSMAR  SEJONG   
+SEJONG    SVETLOE  
+SEJONG    ZELENCHK 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
 # Name: Andreas Hellerschmied
 # Date: 2021-10-15
-# Additional analysis comments (optional):
+# Additional analysis comments (optional):    Hana Krasna, 2022-08-17, BCO added
 
 
 # example
