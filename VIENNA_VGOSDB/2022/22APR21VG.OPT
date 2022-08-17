@@ -1,31 +1,20 @@
-CLOCK BREAKS: 1
-WETTZELL  59716.289427
+CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-BADARY     SVETLOE  
-BADARY     WETTZELL 
-BADARY     YARRA12M 
-BADARY     ZELENCHK 
-SVETLOE    WETTZELL 
-SVETLOE    YARRA12M 
-SVETLOE    ZELENCHK 
-WETTZELL   YARRA12M 
-WETTZELL   ZELENCHK 
-YARRA12M   ZELENCHK 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 CLOCK REFERENCE:
-HART15M
+WETTZELL
 
-# Name: Andreas Hellerschmied / Frederic Jaron
-# Date: 2022-06-01 / 2022-08-17
+# Name: Frederic Jaron
+# Date: <Date of OPT-file submission>
 # Additional analysis comments (optional):
-# Two outliers were detected by the simple outlier test and were removed from the analysis.
+
 
 # example
 # =============================================
