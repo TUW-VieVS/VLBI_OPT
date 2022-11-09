@@ -1,22 +1,20 @@
-CLOCK BREAKS: 0
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS: 1
+YARRA12M  59879.611065
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0 
-ISHIOKA
-#MACGO12M
-#ONSA13SW
+NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
-CLOCK REFERENCE:
-GGAO12M
 
-# Name: Frederic Jaron
-# Date: 2022/11/03
-# Additional analysis comments (optional):  2022/11/08 Hana - ObsEdit folder is missing, ambiguity corrections are missing, delete manually as outliers
+# Name: <Hana Krasna>
+# Date: <2022-11-09>
+# Additional analysis comments (optional):
 
 
 # example
