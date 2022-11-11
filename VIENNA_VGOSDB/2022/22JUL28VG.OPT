@@ -1,22 +1,23 @@
+CLOCK REFERENCE:
+WESTFORD
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 2
+ISHIOKA
+WETTZ13S
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 1 
-ISHIOKA
-#MACGO12M
-#ONSA13SW
+NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
+GGAO12M   MACGO12M 
+MACGO12M  RAEGYEB
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
-CLOCK REFERENCE:
-GGAO12M
 
-# Name: Frederic Jaron
-# Date: 2022/11/03
-# Additional analysis comments (optional):  2022/11/08 Hana - ObsEdit folder is missing, ambiguity corrections are missing, delete manually as outliers
+# Name: <Hana Krasna>
+# Date: <2022-11-11>
+# Additional analysis comments (optional): ObsEdit dir is missing, ambiguity not flagged - manual outlier elimination is needed, 8148 obs included in database(=correlated), used only 2817
 
 
 # example
