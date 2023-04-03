@@ -1,7 +1,9 @@
 CLOCK BREAKS: 3
 SEJONG    59941.197315
-SEJONG    59941.386458
-SEJONG    59941.515671
+SEJONG    59941.390301
+SEJONG    59941.522697
+#SEJONG    59941.386458
+#SEJONG    59941.515671
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -22,7 +24,7 @@ WETTZELL
 # Name: Frederic Jaron
 # Date: 2023/01/20
 # Additional analysis comments (optional):
-
+# 2023-04-03, Hana, changed clock breaks for SEJONG
 
 # example
 # =============================================

@@ -1,8 +1,10 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
+RAEGYEB
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 0
+STATIONS TO BE DOWN-WEIGHTED: 1
+RAEGYEB  0.1
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 KOKEE12M  RAEGYEB  
@@ -17,7 +19,7 @@ RAEGYEB   WETTZ13S
 # Name: Andreas Hellerschmied
 # Date: 2022-08-09
 # Additional analysis comments (optional):
-
+# 2023-04-03, Hana, RAEGYEB downweighted
 
 # example
 # =============================================

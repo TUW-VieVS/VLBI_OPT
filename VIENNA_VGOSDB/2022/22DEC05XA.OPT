@@ -1,6 +1,7 @@
 CLOCK REFERENCE:
 WETTZELL
 CLOCK BREAKS: 1
+SEJONG    59918.900174
 SEJONG    59918.897326
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
@@ -36,6 +37,7 @@ WARK12M   YARRA12M
 # Name: Johannes 
 # Date: 22 Dec 2022
 # Additional analysis comments (optional): large baseline clock offset on baseline Hobart12 to Kath12m
+# 2023-04-03, Hana, change of clock break for SEJONG
 
 
 # example
