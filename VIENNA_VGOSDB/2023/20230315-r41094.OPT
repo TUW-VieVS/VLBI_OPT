@@ -9,17 +9,12 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 HART15M    KATH12M  
-HART15M    WARK12M  
-HART15M    WETTZELL 
-KATH12M    WARK12M  
-KATH12M    WETTZELL 
-NYALE13S   WETTZELL
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Sofie
-# Date: 31.03.2023
+# Name: Sofie / Sigrid
+# Date: 31.03.2023 / (updated) 2023-04-21
 # Additional analysis comments (optional): NYALES20 bad data but no comment on NASA webpage, after exclusion chi2 little bit better
 
 
