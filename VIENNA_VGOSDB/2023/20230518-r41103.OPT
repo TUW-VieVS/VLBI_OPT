@@ -1,5 +1,5 @@
 CLOCK REFERENCE:
-WETTZELL
+HART15M 
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
@@ -7,16 +7,13 @@ SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-KOKEE     YARRA12M 
-KATH12M   KOKEE    
-KATH12M   ZELENCHK 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: David Mayer / Johannes
-# Date: 2023-05-12 / 2023-06-02
-# Additional analysis comments (optional):
+# Name: Johannes
+# Date: 2023-06-02
+# Additional analysis comments (optional): at least one big outlier
 
 
 # example
