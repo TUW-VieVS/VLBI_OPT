@@ -1,5 +1,5 @@
 CLOCK REFERENCE:
-WETTZELL
+HOBART12
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
@@ -11,9 +11,9 @@ NO CABLE CAL: 0
 +CABLE CAL
 -CABLE CAL
 
-# Name: <Enter your name here>
-# Date: <Date of OPT-file submission>
-# Additional analysis comments (optional):
+# Name: Sigrid Boehm
+# Date: 2023-07-11
+# Additional analysis comments (optional): Not yet solveable, waiting for update
 
 
 # example
