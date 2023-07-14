@@ -1,24 +1,22 @@
 CLOCK REFERENCE:
-ZELENCHK
-CLOCK BREAKS: 1
-KATH12M   60083.054473
+HOBART26
+CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-HART15M   KATH12M  
-HART15M   WARK12M  
-KOKEE     WARK12M  
+KATH12M   WARK12M  
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Johannes
-# Date: 2023-06-02
-# Additional analysis comments (optional): at least one big outlier
-updatet on 14.07.2023 (Helene)
+# Name: Helene Wolf
+# Date: 13.07.2023
+# Additional analysis comments (optional):
+WARK12M has a signal in the first solution.
+When excluding WARK12M the results are much better but I did not exclude it in order to not loose too much data.
 
 # example
 # =============================================
