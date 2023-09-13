@@ -19,3 +19,6 @@ As VieVS-VLBI, VieVS-VLBI_OPT is distributed under the GNU General Public Licens
 ## Usage
 The OPT-files are provided in two different directories: VIENNA_NGS and VIENNA_VGOSDB. The splitting is due to the historical evolution of the data format, but the format of the OPT-files is the same. VIENNA_NGS covers mainly, but not exclusively the first part of the observation history 1979-2000 and VIENNA_VGOSDB covers mainly, but not exclusively the later part from 2001-present.
 If you think you discovered an error in an OPT-file, please inform Sigrid Böhm.
+
+## Branches
+This is the master branch of the VLBI_OPT repository. It is regularly updated with new OPT-files and also subject to changes. The branch VIE2022b is a part of the master branch, with the contained files frozen at the status of the analysis done for the reference publication Krásná et al. (2023).  
