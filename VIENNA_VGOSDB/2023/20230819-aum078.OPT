@@ -1,22 +1,19 @@
-CLOCK REFERENCE:
-ISHIOKA 
 CLOCK BREAKS: 2
-HOBART12  60082.987407
-HOBART12  60083.172037
+HOBART12  60175.977477
+HOBART12  60176.272338
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 1
-HOBART12 
+NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Sigrid Boehm
-# Date: 2023-07-11
-# Additional analysis comments (optional): Not yet solveable, waiting for update
+# Name: <Enter your name here>
+# Date: <Date of OPT-file submission>
+# Additional analysis comments (optional):
 
 
 # example
