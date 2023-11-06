@@ -1,5 +1,6 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 1
+YEBEDBBC
 TSUKUB32
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
@@ -7,6 +8,8 @@ STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 
 # Caroline Schoenberger, 2016/02/23
+
+# Anna Zessner-Spitzenberg, 9. Apr 2020, excluded YEBEDBBC - updated from VGOSDB DIR 2023/11/06 HK
 
 # example
 # =============================================
