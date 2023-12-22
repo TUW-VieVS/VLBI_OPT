@@ -1,27 +1,20 @@
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-RAEGYEB   60251.505745-60251.759453
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-HOBART12  KOKEE12M 
-HOBART12  MACGO12M 
-HOBART12  NYALE13N 
-HOBART12  RAEGYEB  
+HOBART12  WARK12M  
+KATH12M   WARK12M  
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Helene Wolf
-# Date: 14-12-2023
-# Additional analysis comments (optional):
-Diese Session war nicht lösbar. Es wird auf ein Update der vgosDB Datei gewartet.
-
 # Name: David Mayer
-# Date: 22-12-2023
+# Date: 2023-12-22
 # Additional analysis comments (optional):
+
 
 # example
 # =============================================
