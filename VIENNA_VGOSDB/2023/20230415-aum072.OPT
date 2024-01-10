@@ -1,5 +1,5 @@
 CLOCK REFERENCE:
-WETTZELL
+KATH12M 
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
@@ -7,16 +7,13 @@ SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-HARTRAO   PIETOWN  
-HARTRAO   SC-VLBA  
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Sigrid Boehm
-# Date: 2023-04-20
-# Additional analysis comments (optional):
-
+# Name: Hana Krasna
+# Date: 2024-01-10
+# Additional analysis comments (optional): single baseline
 
 # example
 # =============================================
