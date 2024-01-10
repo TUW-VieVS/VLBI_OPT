@@ -2,12 +2,13 @@ CLOCK REFERENCE:
 FD-VLBA 
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
-BASELINES TO BE EXCLUDED: 2
+BASELINES TO BE EXCLUDED: 0
 BR-VLBA FD-VLBA
 BR-VLBA OV-VLBA
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+BR-VLBA
 +BASELINE-DEPENDENT CLOCK OFFSET
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
@@ -15,7 +16,7 @@ NO CABLE CAL: 0
 
 # Name: Olivia Panzenböck
 # Date: 05-10-2023
-# Additional analysis comments (optional):
+# Additional analysis comments (optional): 2024-01-08, Hana Krasna, do not delete baselines, only turn off the cable cal at BR
 
 
 # example
