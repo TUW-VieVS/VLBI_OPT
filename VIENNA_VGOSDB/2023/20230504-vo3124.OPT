@@ -1,12 +1,19 @@
+CLOCK REFERENCE:
+WESTFORD
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 2
+STATIONS TO BE EXCLUDED: 0
 RAEGYEB
 HOBART12
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+STATIONS TO BE DOWN-WEIGHTED: 1
+HOBART12    0.05
+NO CABLE CAL: 1
+HOBART12
 +BASELINE-DEPENDENT CLOCK OFFSET
+GGAO12M   ONSA13SW 
+GGAO12M   WETTZ13S 
+ONSA13SW  RAEGYEB 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
@@ -14,6 +21,7 @@ NO CABLE CAL: 0
 # Name: Andreas Hellerschmied
 # Date: 2023-06-12
 # Additional analysis comments (optional): Hobart is extremelz noisz and RAEGYEB has numerous issues - see correlation report.
+# 2024-01-13, Hana Krasna, RAEGYEB added back - no reason to exclude it, HOBART12 - cable cal disabled + obs downweighted, REFERENCE CLOCK set, BCO added
 
 
 # example

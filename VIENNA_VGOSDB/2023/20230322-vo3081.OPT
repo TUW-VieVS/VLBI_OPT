@@ -5,7 +5,9 @@ HOBART12  60026.071788
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 0
+STATIONS TO BE DOWN-WEIGHTED: 2
+HOBART12    0.05
+KATH12M    0.05
 NO CABLE CAL: 1
 HOBART12
 +BASELINE-DEPENDENT CLOCK OFFSET
@@ -16,7 +18,8 @@ HOBART12
 # Name: Leo Baldreich
 # Date: 2023-10-31
 # Additional analysis comments (optional):
-Session fit nowhere near the 27.643 ps from the IVS analysis report, HOBART12 and KATH12M seem to degrade the solution in VieVS, but are kept in for now
+# Session fit nowhere near the 27.643 ps from the IVS analysis report, HOBART12 and KATH12M seem to degrade the solution in VieVS, but are kept in for now
+# 2024-01-13, Hana Krasna, HOBART12 and KATH12M downweighted
 
 
 # example

@@ -6,7 +6,8 @@ HOBART12  60083.172037
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 0
+STATIONS TO BE DOWN-WEIGHTED: 1
+HOBART12    0.05
 NO CABLE CAL: 1
 HOBART12 
 +BASELINE-DEPENDENT CLOCK OFFSET
@@ -17,6 +18,7 @@ HOBART12
 # Name: Sigrid Boehm
 # Date: 2023-07-11
 # Additional analysis comments (optional): Not yet solveable, waiting for update
+# 2024-01-13, Hana Krasna, HOBART12 downweighted
 
 
 # example
