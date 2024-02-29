@@ -11,7 +11,7 @@ Documentation: https://vievswiki.geo.tuwien.ac.at
 ## Reference
 If you publish results based on analysis with the OPT-files provided here, please give credit to the Vienna Center for VLBI members by citing the following reference:
 
-H. Krásná, L. Baldreich, J. Böhm, S. Böhm, J. Gruber, A. Hellerschmied, F. Jaron, L. Kern, D. Mayer, A. Nothnagel, O. Panzenböck, H. Wolf. VLBI Celestial and Terrestrial Reference Frames VIE2022b, accepted for publication in Astronomy & Astrophysics, 2023. 
+H. Krásná, L. Baldreich, J. Böhm, S. Böhm, J. Gruber, A. Hellerschmied, F. Jaron, L. Kern, D. Mayer, A. Nothnagel, O. Panzenböck, H. Wolf. VLBI Celestial and Terrestrial Reference Frames VIE2022b, A&A, 679, A53 (2023). DOI: https://doi.org/10.1051/0004-6361/202245434 
 
 ## Licence 
 As VieVS-VLBI, VieVS-VLBI_OPT is distributed under the GNU General Public License v3.0. You should have received a copy of the GNU General Public License along with this repository. If not, see http://www.gnu.org/licenses/.
