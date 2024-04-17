@@ -9,8 +9,10 @@ NO CABLE CAL: 2
 KOKEE
 MATERA
 +BASELINE-DEPENDENT CLOCK OFFSET
+HOBART12  YARRA12M 
 KOKEE     MATERA   
 KOKEE     NYALE13S 
+KOKEE     YARRA12M 
 MATERA    NYALE13S 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
@@ -19,6 +21,7 @@ MATERA    NYALE13S
 # Name: Leo Baldreich
 # Date: 2024-04-07
 # Additional analysis comments (optional):
+# Update Peter Urban 17.04.2024
 
 
 # example
