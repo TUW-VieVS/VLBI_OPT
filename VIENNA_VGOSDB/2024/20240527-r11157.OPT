@@ -6,21 +6,22 @@ STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+MATERA
 +BASELINE-DEPENDENT CLOCK OFFSET
 HART15M   HOBART12 
 HART15M   SEJONG   
 KATH12M   SEJONG   
 MATERA    SEJONG   
 NYALE13N  SEJONG   
-NYALE13S  SEJONG 
+NYALE13S  SEJONG  
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
 # Name: Lisa
-# Date: 11-06-2024
-# Additional analysis comments (optional): baseline KATH12M-SEJONG high residuals, excluding leads to singular matrix due to less observations of source 1424-418
+# Date: 13-06-2024
+# Additional analysis comments (optional): updated session
 
 
 # example
