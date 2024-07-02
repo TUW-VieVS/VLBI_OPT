@@ -12,13 +12,9 @@ NO CABLE CAL: 0
 KOKEE
 MATERA
 +BASELINE-DEPENDENT CLOCK OFFSET
-HART15M    HOBART12 
-HART15M    KATH12M  
-HART15M    MATERA   
-HOBART12   KATH12M  
-HOBART12   KOKEE    
-KATH12M    KOKEE    
-KOKEE      MATERA   
+HART15M   MATERA   
+KOKEE     MATERA 
+HART15M   KATH12M 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
@@ -26,7 +22,6 @@ KOKEE      MATERA
 # Name: Lisa
 # Date: 19-06-2024
 # Additional analysis comments (optional): outliers are selected manually 
-# Update Peter Urban 02.07.2024
 
 
 # example
