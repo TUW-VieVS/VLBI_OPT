@@ -16,9 +16,11 @@ SEJONG    WETTZELL
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
+CLOCK REFERENCE:
+WETTZELL
 
-# Name: David Mayer
-# Date: 2023-05-17
+# Name: Frederic Jaron
+# Date: 2024-07-16
 # Additional analysis comments (optional):
 
 
