@@ -1,22 +1,22 @@
-CLOCK BREAKS: 1
-KP-VLBA   60084.681117
+CLOCK REFERENCE:
+BADARY  
+CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-0812+578
 STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
+KOKEE     SVETLOE  
+NYALE13N  WETTZELL
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
-CLOCK REFERENCE:
-MK-VLBA
 
-# Name: Frederic Jaron
-# Date: 12/06/2024
+# Name: <Hana Krasna>
+# Date: <2024-12-11>
 # Additional analysis comments (optional):
-# Hana Krasna, Dec 11, 2024, don't exclude 0812+578 (non ICRF3) but estimate its coordinates!
+
 
 # example
 # =============================================
