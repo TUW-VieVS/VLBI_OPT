@@ -5,7 +5,7 @@ ISHIOKA   60571.966406
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 1
+STATIONS TO BE DOWN-WEIGHTED: 0
 KATH12M 0.25
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
@@ -22,9 +22,9 @@ ONSA13SW  WETTZ13N
 +CABLE CAL
 -CABLE CAL
 
-# Name: Lisa
-# Date: 21-10-2024
-# Additional analysis comments (optional):
+# Name: Lisa, Hana Krasna
+# Date: 21-10-2024, 2025-01-22
+# Additional analysis comments (optional): HK: Ke is ok, no need to downweight its observations
 
 
 # example

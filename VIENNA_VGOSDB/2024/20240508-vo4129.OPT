@@ -1,22 +1,22 @@
 CLOCK REFERENCE:
 RAEGSMAR
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 0
+STATIONS TO BE EXCLUDED: 1
+HOBART12
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 1
-HOBART12	0.25
+STATIONS TO BE DOWN-WEIGHTED: 0
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
-HOBART12  WESTFORD 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Lisa
-# Date: 17-06-2024
+# Name: Lisa, Hana Krasna
+# Date: 17-06-2024, 2025-01-22
 # Additional analysis comments (optional): session has problems, many outliers eliminated to get chi2 of 4.8
-
+# HK: the vgosDB was created by SHA, they do not provide the ObsEdit folder with flags. Use vievs outlier file instead (~200 observations have to be flagged (deleted))
+# HK: Hb deleted, because it completely destroys the solution when added to NNT/NNR. Only few observations left.
 
 # example
 # =============================================
