@@ -4,17 +4,19 @@ CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 1
+STATIONS TO BE DOWN-WEIGHTED: 0
 HOBART12  0.05
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
+HOBART12   ONSA13NE
+HOBART12   ISHIOKA  
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: <Peter Urban>
-# Date: <31.01.2024>
-# Additional analysis comments (optional):
+# Name: <Peter Urban>, Hana Krasna
+# Date: <31.01.2024>, 2025-01-24
+# Additional analysis comments (optional): HK: Hb downweighting not necessary in this session, BCOs added
 
 
 # example
