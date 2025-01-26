@@ -6,17 +6,18 @@ BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 1
 HOBART12 0.05
-NO CABLE CAL: 1
+NO CABLE CAL: 2
 WESTFORD
+HOBART12
 +BASELINE-DEPENDENT CLOCK OFFSET
 MACGO12M  WESTFORD 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: David Mayer
-# Date: 25.01.2025
-# Additional analysis comments (optional):
+# Name: David Mayer, Hana Krasna
+# Date: 25.01.2025, 26.01.2025
+# Additional analysis comments (optional): HK: Hb cable cal switched off
 
 
 # example
