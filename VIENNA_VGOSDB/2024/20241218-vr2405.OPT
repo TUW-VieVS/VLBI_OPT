@@ -5,8 +5,8 @@ STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 2
-HOBART12 0.05
-WETTZ13N 0.05
+HOBART12    0.05
+WETTZ13N    0.10
 NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 ONSA13NE  WETTZ13N 
@@ -16,7 +16,7 @@ ONSA13NE  WETTZ13N
 
 # Name: Sigrid Boehm
 # Date: 2025-02-28
-# Additional analysis comments (optional):
+# Additional analysis comments (optional): H.K. WETTZ13N - temperature values taken from GPT3 (could be checked with Ws), AR info: Very low SNR compared to Ws and compared to VR2404
 
 
 # example
