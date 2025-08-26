@@ -9,14 +9,14 @@ NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 KOKEE     NYALE13N 
 NYALE13N  SVETLOE  
-NYALE13N  ZELENCHK 
+NYALE13N  ZELENCHK
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Johannes
-# Date: 19 Aug 2025
-# Additional analysis comments (optional):
+# Name: Sofie
+# Date: 26.08.2025
+# Additional analysis comments (optional): high chi2
 
 
 # example
