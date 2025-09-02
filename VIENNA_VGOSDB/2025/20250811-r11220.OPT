@@ -9,12 +9,13 @@ NO CABLE CAL: 0
 +BASELINE-DEPENDENT CLOCK OFFSET
 HOBART12  KATH12M  
 HOBART12  YARRA12M 
+WETTZELL  YARRA12M 
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Sofie
-# Date: 28.08.2025
+# Name: Lisa (updated)
+# Date: 02.09.2025
 # Additional analysis comments (optional):
 
 
