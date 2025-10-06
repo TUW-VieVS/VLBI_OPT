@@ -1,8 +1,9 @@
-CLOCK BREAKS: 6
+CLOCK BREAKS: 7
 KATH12M   60929.907176
 KOKEE     60930.178466
 HOBART12  60930.185440
 WETTZELL  60930.209543
+NYALE13N  60930.216013
 HART15M   60930.298339
 WETTZELL  60930.457922
 STATIONS TO BE EXCLUDED: 0
@@ -26,7 +27,7 @@ NYALE13N  WETTZELL
 # Name: Helene
 # Date: 1-10-2025
 # Additional analysis comments (optional):
-
+updated on 6-10-2025
 
 # example
 # =============================================
