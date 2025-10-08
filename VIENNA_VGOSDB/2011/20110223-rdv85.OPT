@@ -1,0 +1,36 @@
+CLOCK REFERENCE: 
+BR-VLBA      
+ 
+STATIONS TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 2 
+1750+093 
+2224-308 
+ 
+#STATIONS TO BE EXCLUDED: 2 
+#MK-VLBA       
+#SC-VLBA        
+# 
+# take better 11FEB23XA_N005 
+# Claudia Tierno Ros, Feb. 2012  
+# Nov 2012 by L. Plank: version 6 available, no exclusion of stations necessary. 
+ 
+# Name: David Mayer 
+# Date: 2016-12-06 
+# Additional analysis comments (optional): update: Sources removed according to Goddard list  
++BASELINE-DEPENDENT CLOCK OFFSET
+FD-VLBA   NL-VLBA  
+HN-VLBA   NL-VLBA  
+HN-VLBA   NYALES20 
+HN-VLBA   OV-VLBA  
+HN-VLBA   WESTFORD 
+KP-VLBA   OV-VLBA  
+LA-VLBA   NL-VLBA  
+LA-VLBA   NYALES20 
+LA-VLBA   PIETOWN  
+LA-VLBA   SC-VLBA  
+LA-VLBA   WESTFORD 
+LA-VLBA   WETTZELL 
+MK-VLBA   TSUKUB32 
+NYALES20  TSUKUB32 
+OV-VLBA   TSUKUB32 
+-BASELINE-DEPENDENT CLOCK OFFSET

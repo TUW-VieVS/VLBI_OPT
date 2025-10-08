@@ -1,0 +1,12 @@
+CLOCK REFERENCE: 
+TSUKUB32 
+CLOCK BREAKS: 1 
+TIGOCONC  55789.875806 
+STATIONS TO BE EXCLUDED:   0 
+KATH12M    
+ 
+# Jing SUN, 2011-09-03, added clock break: Matthias Madzak: 11.11.2011 (TIGOCONC must be removed from NNT/NNR if coords are not too good) 
+# Lucia Plank, 2015-08-10: no need to exclude Kath, one clock break (Wettzell) removed 
++BASELINE-DEPENDENT CLOCK OFFSET
+ONSALA60  WETTZELL 
+-BASELINE-DEPENDENT CLOCK OFFSET

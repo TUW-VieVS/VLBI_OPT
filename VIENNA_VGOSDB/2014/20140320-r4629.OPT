@@ -1,0 +1,20 @@
+CLOCK REFERENCE: 
+WETTZELL 
+ 
+CLOCK BREAKS: 3 
+KOKEE     56736.923322 
+KOKEE     56737.182378 
+KOKEE     56737.378229 
+STATIONS TO BE EXCLUDED: 0 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0  
+1758-651 
+1034-293 
+ 
+# subambiguities at KOKEE and clock problems at some of the other stations in the first solution, chi-squared approx. 2.83 
+ 
+# created by Armin, 16.04.2014 
+# Caroline Schoenberger, 2016/02/16 
++BASELINE-DEPENDENT CLOCK OFFSET
+KATH12M   YARRA12M 
+-BASELINE-DEPENDENT CLOCK OFFSET

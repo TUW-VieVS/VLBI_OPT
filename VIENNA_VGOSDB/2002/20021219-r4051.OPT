@@ -1,0 +1,7 @@
+CLOCK REFERENCE: 
+KOKEE     
+# Special parameterization: Loose clock constr for Wettzell 
+# Tobias Nilsson, June 28, 2010 
++BASELINE-DEPENDENT CLOCK OFFSET
+ALGOPARK  NYALES20 
+-BASELINE-DEPENDENT CLOCK OFFSET

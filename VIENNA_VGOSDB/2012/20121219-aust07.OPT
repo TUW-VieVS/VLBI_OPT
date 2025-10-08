@@ -1,0 +1,14 @@
+CLOCK REFERENCE: 
+KATH12M  
+CLOCK BREAKS: 1 
+HOBART12  56280.312159 
+STATIONS TO BE EXCLUDED: 0 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0 
+ 
+# Kamil 28.02.2013 : All 3 stations are not in VTRF2008 and VieVS try to estimate their coordinates with NNT/NNR. So program crashes. Fix all the antenna coordinates not in main GUI (VieVS 
+# try to estimate them again and cause in this time singularity) but in station-wise parameterization GUI. 
+# Lucia 14-5-2014: clock break added 
++BASELINE-DEPENDENT CLOCK OFFSET
+HOBART12  YARRA12M 
+-BASELINE-DEPENDENT CLOCK OFFSET

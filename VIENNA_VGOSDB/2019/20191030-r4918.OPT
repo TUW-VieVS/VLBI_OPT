@@ -1,0 +1,47 @@
+CLOCK BREAKS: 0 
+STATIONS TO BE EXCLUDED: 0 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 1 
+MATERA 
+ 
+# Name: Markus Mikschi 
+# Date: 18-NOV-2019 
+# Additional analysis comments (optional): 
+# MATERA cable cal has big amplitude and multiple jumps. Looked like clock breaks in the residuals. 
+# IVS and NASA analysis centers both turned cable cal off. 
+ 
+ 
+# example 
+# ============================================= 
+# CLOCK REFERENCE: 
+# WETTZELL 
+# 
+# CLOCK BREAKS: 2 
+# BADARY    55454.4 
+# WETTZELL  55372.369 
+# 
+# STATIONS TO BE EXCLUDED: 5 
+# MATERA   
+# WETTZELL 
+# MATERA   YYMMDDhhmm-YYMMDDhhmm 
+# WETTZELL YYMMDDhhmm-YYMMDDhhmm 
+# BADARY   MJD1-MJD2 
+# 
+# BASELINES TO BE EXCLUDED: 3 
+# WETTZELL  ZELENCHK 
+# SVETLOE   ZELENCHK 
+# BADARY    ZELENCHK 
+# 
+# SOURCES TO BE EXCLUDED: 1 
+# 1936+095 
+# 2356+385 YYMMDDhhmm-YYMMDDhhmm 
+# 
+# NO CABLE CAL: 2 
+# WETTZELL 
+# MATERA   
++BASELINE-DEPENDENT CLOCK OFFSET
+MATERA    WETTZELL 
+WETTZ13N  WETTZELL 
+-BASELINE-DEPENDENT CLOCK OFFSET

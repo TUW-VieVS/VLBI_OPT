@@ -1,0 +1,7 @@
+CLOCK REFERENCE: 
+HOBART26  
+CLOCK BREAKS:  0 
+# Tobias Nilsson Mar 26, 2010 
+# Special parameterization: loose constraints on Seshan25 and Urumqi clocks 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

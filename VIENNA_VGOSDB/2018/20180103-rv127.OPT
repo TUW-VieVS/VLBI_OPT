@@ -1,0 +1,13 @@
+CLOCK BREAKS: 1 
+NL-VLBA   58122.444705 
+STATIONS TO BE EXCLUDED: 0 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 0 
+ 
+# Name: Lucia McCallum 
+# Date: 4-4-2018 
+# Additional analysis comments (optional): session works, though first solution very large. This can be fixed by removing outliers. 7 New sources added to vievscrf file. 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

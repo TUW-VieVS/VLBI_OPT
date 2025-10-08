@@ -1,0 +1,17 @@
+CLOCK REFERENCE: 
+FD-VLBA   
+SOURCES TO BE EXCLUDED: 3 
+0218+357 
+0531-397 
+2018+295 
+ 
+# Tobias Nilsson, April 16, 2010 
+# Probably bad source position of 0218+357 in NGS file  
+ 
+# Hana Krasna 13 Aug 2014 
+ 
+# Name: David Mayer 
+# Date: 2016-12-06 
+# Additional analysis comments (optional): update: Sources removed according to Goddard list  
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

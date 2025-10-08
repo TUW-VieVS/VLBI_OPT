@@ -1,0 +1,11 @@
+CLOCK REFERENCE: 
+WETTZELL 
+CLOCK BREAKS:   0 
+STATIONS TO BE EXCLUDED:   0 
+ 
+# Johannes Boehm 12 April 2010 
+# outliers 
+# some sources missing 
+# YEBES40M might have bad a priori coordinates 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

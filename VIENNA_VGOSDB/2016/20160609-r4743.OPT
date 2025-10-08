@@ -1,0 +1,25 @@
+CLOCK BREAKS: 1 
+YARRA12M  57549.064734 
+STATIONS TO BE EXCLUDED: 0 
+BASELINES TO BE EXCLUDED: 2 
+MATERA WARK12M 
+WARK12M WETTZELL 
+SOURCES TO BE EXCLUDED: 0 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 0 
+ 
+# Name: Lucia Plank 
+# Date: 13-7-2016 
+# Additional analysis comments (optional): 
+# outliers 
+# remove the few huge outliers, then the session is fine 
+ 
+# Name: David Mayer 
+# Date: 04.04.17 
+# Additional analysis comments (optional): updated 
++BASELINE-DEPENDENT CLOCK OFFSET
+KATH12M   MATERA   
+KATH12M   WARK12M  
+MATERA    WETTZELL 
+MATERA    YARRA12M 
+-BASELINE-DEPENDENT CLOCK OFFSET

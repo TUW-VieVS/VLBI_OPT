@@ -1,0 +1,18 @@
+CLOCK REFERENCE: 
+WETTZELL    
+CLOCK BREAKS: 0 
+BASELINES TO BE EXCLUDED: 2 
+HOBART12 WESTFORD  
+KATH12M  WESTFORD 
+NO CABLE CAL: 2 
+KOKEE 
+NYALES20 
+ 
+# 2012 Nov 14 Sigrid Boehm 
+# NYALES20 can be excluded to decrease chi^2  
+ 
+# Name: Update David Mayer 
+# Date: 2016-07-28 
+# Additional analysis comments (optional):   
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

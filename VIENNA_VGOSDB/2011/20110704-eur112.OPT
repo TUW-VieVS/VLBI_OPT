@@ -1,0 +1,50 @@
+CLOCK REFERENCE: 
+NYALES20      
+ 
+CLOCK BREAKS: 1 
+ZELENCHK  55747.384120 
+ 
+ 
+BASELINES TO BE EXCLUDED: 0 
+MEDICINA  SVETLOE  
+MATERA    MEDICINA 
+ 
+ 
+ 
+STATIONS TO BE EXCLUDED: 0 
+CRIMEA        
+ZELENCHK 
+ 
+# Take better 11JUL04XA_N006 
+# Claudia Tierno Ros, Feb. 2012   
+ 
+# Hana Krásná, Jan 30, 2014 
+# ambiquities at Crimea and at the baseline Ma-Mt in version 007 
+ 
+# Name: David Mayer 
+# Date: 2016-01-06 
+# Additional analysis comments (optional): session is really bad, exclude ZELENCHK and the baseline MEDICINA  SVETLOE to get a reasonable solution --> not sure 
+ 
+# Hana Krasna, 02-12-2020 
+# bas-dep clock offsets, crimea is noisy but coor estimates look ok 
++BASELINE-DEPENDENT CLOCK OFFSET
+CRIMEA    EFLSBERG 
+CRIMEA    MATERA   
+CRIMEA    MEDICINA 
+CRIMEA    SVETLOE  
+CRIMEA    WETTZELL 
+CRIMEA    ZELENCHK 
+EFLSBERG  MATERA   
+EFLSBERG  MEDICINA 
+EFLSBERG  WETTZELL 
+EFLSBERG  ZELENCHK 
+MATERA    MEDICINA 
+MATERA    SVETLOE  
+MATERA    ZELENCHK 
+MEDICINA  SVETLOE  
+MEDICINA  WETTZELL 
+MEDICINA  ZELENCHK 
+SVETLOE   WETTZELL 
+SVETLOE   ZELENCHK 
+WETTZELL  ZELENCHK 
+-BASELINE-DEPENDENT CLOCK OFFSET

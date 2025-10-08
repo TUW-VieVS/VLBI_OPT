@@ -1,0 +1,53 @@
+CLOCK REFERENCE: 
+KP-VLBA  
+CLOCK BREAKS: 0 
+BR-VLBA   58617.204988 
+STATIONS TO BE EXCLUDED: 0 
+BR-VLBA   58617.192818-58617.216512 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 2 
+BR-VLBA 
+NL-VLBA 
+ 
+# Name: Markus Mikschi 
+# Date: 16-JUL-2019 
+# Additional analysis comments (optional): 
+BR-VLBA has a jump in the residuals similar to a clock break. However, the two parts to the left and the right of the "clock break" overlap a bit. After discusion during the vievs meeting the overlapping part was excluded and a clock break was set during the excluded time span. 
+ 
+# Hana Krasna, 2020-12-16 
+# switched off cable cal solves the problem for BR-VLBA 
+# in addition cable cal switched off also for NL-VLBA 
+ 
+# example 
+# ============================================= 
+# CLOCK REFERENCE: 
+# WETTZELL 
+# 
+# CLOCK BREAKS: 2 
+# BADARY    55454.4 
+# WETTZELL  55372.369 
+# 
+# STATIONS TO BE EXCLUDED: 5 
+# MATERA   
+# WETTZELL 
+# MATERA   YYMMDDhhmm-YYMMDDhhmm 
+# WETTZELL YYMMDDhhmm-YYMMDDhhmm 
+# BADARY   MJD1-MJD2 
+# 
+# BASELINES TO BE EXCLUDED: 3 
+# WETTZELL  ZELENCHK 
+# SVETLOE   ZELENCHK 
+# BADARY    ZELENCHK 
+# 
+# SOURCES TO BE EXCLUDED: 1 
+# 1936+095 
+# 2356+385 YYMMDDhhmm-YYMMDDhhmm 
+# 
+# NO CABLE CAL: 2 
+# WETTZELL 
+# MATERA   
++BASELINE-DEPENDENT CLOCK OFFSET
+LA-VLBA   PIETOWN  
+-BASELINE-DEPENDENT CLOCK OFFSET

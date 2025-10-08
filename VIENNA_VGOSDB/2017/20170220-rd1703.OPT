@@ -1,0 +1,65 @@
+CLOCK REFERENCE: 
+WETTZELL 
+CLOCK BREAKS: 2 
+KUNMING   57804.786146 
+NYALES20  57805.431134 
+STATIONS TO BE EXCLUDED: 0 
+HOBART26 
+BASELINES TO BE EXCLUDED: 0 
+NYALES20 KUNMING 
+SOURCES TO BE EXCLUDED: 0 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 0 
+ 
+# Name: Lucia McCallum 
+# Date: 29-5-2017 
+# Additional analysis comments (optional): difficult session; sub-ambiguities, which I resolved by excluding lots of outliers. Finally Hobart only has a few observations left and I excluded it. R&D session. 
+ 
+# Name: D. Mayer 
+# Date: 03-May-2017 
+# Additional analysis comments (optional): Update. excluded baseline NYALES20 KUNMING 
+ 
+ 
+# Hana Krasna 30-11-2020 
+# bas-dep clock offsets 
+ 
+ 
+ 
+# example 
+# ============================================= 
+# CLOCK REFERENCE: 
+# WETTZELL 
+# 
+# CLOCK BREAKS: 2 
+# BADARY    55454.4 
+# WETTZELL  55372.369 
+# 
+# STATIONS TO BE EXCLUDED: 5 
+# MATERA   
+# WETTZELL 
+# MATERA   YYMMDDhhmm-YYMMDDhhmm 
+# WETTZELL YYMMDDhhmm-YYMMDDhhmm 
+# BADARY   MJD1-MJD2 
+# 
+# BASELINES TO BE EXCLUDED: 3 
+# WETTZELL  ZELENCHK 
+# SVETLOE   ZELENCHK 
+# BADARY    ZELENCHK 
+# 
+# SOURCES TO BE EXCLUDED: 1 
+# 1936+095 
+# 2356+385 YYMMDDhhmm-YYMMDDhhmm 
+# 
+# STATIONS TO BE DOWN-WEIGHTED (NOISE IN [m]): 2 
+# MATERA   0.040 
+# WETTZELL 0.020 
+# 
+# NO CABLE CAL: 2 
+# WETTZELL 
+# MATERA   
++BASELINE-DEPENDENT CLOCK OFFSET
+HOBART26  KUNMING  
+KUNMING   NYALES20 
+MEDICINA  ONSALA60 
+NYALES20  ONSALA60 
+-BASELINE-DEPENDENT CLOCK OFFSET

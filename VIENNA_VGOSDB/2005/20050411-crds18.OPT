@@ -1,0 +1,23 @@
+CLOCK REFERENCE: 
+HOBART26  
+CLOCK BREAKS:   0 
+STATIONS TO BE EXCLUDED:   0 
+SOURCES TO BE EXCLUDED: 0  
+0648-165 
+0454-810 
+2131-021 
+1105-680 
+0400-319 
+1127-145 
+1610-771 
+ 
+# Johannes Boehm 12 April 2010 
+# three stations 
+ 
+# Caroline Schoenberger, 2016/02/08 
+# excluded sources 
+ 
+# Hana Krasna 
+# bad session 
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET

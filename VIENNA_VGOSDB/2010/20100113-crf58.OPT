@@ -1,0 +1,13 @@
+CLOCK REFERENCE: 
+KOKEE    
+STATIONS TO BE EXCLUDED:  0 
+DSS13    
+# Tobias Nilsson Mar 29, 2010 
+# Not sure, two stations left  
+ 
+# Name: David Mayer	 
+# Date: 2016-07-27 
+# Additional analysis comments (optional): 
++BASELINE-DEPENDENT CLOCK OFFSET
+DSS13     KASHIM34 
+-BASELINE-DEPENDENT CLOCK OFFSET

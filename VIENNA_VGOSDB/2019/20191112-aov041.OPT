@@ -1,0 +1,48 @@
+CLOCK REFERENCE: 
+ISHIOKA  
+CLOCK BREAKS: 0 
+STATIONS TO BE EXCLUDED: 1 
+YARRA12M 
+BASELINES TO BE EXCLUDED: 0 
+SOURCES TO BE EXCLUDED: 0 
+STATIONS TO BE DOWN-WEIGHTED: 0 
+NO CABLE CAL: 0 
+ 
+# Name: Markus Mikschi 
+# Date: 05-Mar-2020 
+# Additional analysis comments (optional): 
+# YARRA12M has large BL clock offsets 
+# Hoever, of the three emaining stations only two (HOBART26 and KONGAI) have ITRF2014 coordinates. 
+# --> NNR and NNT conditions to all remaining stations applied 
+ 
+ 
+# example 
+# ============================================= 
+# CLOCK REFERENCE: 
+# WETTZELL 
+# 
+# CLOCK BREAKS: 2 
+# BADARY    55454.4 
+# WETTZELL  55372.369 
+# 
+# STATIONS TO BE EXCLUDED: 5 
+# MATERA   
+# WETTZELL 
+# MATERA   YYMMDDhhmm-YYMMDDhhmm 
+# WETTZELL YYMMDDhhmm-YYMMDDhhmm 
+# BADARY   MJD1-MJD2 
+# 
+# BASELINES TO BE EXCLUDED: 3 
+# WETTZELL  ZELENCHK 
+# SVETLOE   ZELENCHK 
+# BADARY    ZELENCHK 
+# 
+# SOURCES TO BE EXCLUDED: 1 
+# 1936+095 
+# 2356+385 YYMMDDhhmm-YYMMDDhhmm 
+# 
+# NO CABLE CAL: 2 
+# WETTZELL 
+# MATERA   
++BASELINE-DEPENDENT CLOCK OFFSET
+-BASELINE-DEPENDENT CLOCK OFFSET
