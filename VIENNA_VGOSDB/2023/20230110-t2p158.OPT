@@ -16,7 +16,6 @@ AGGO      HARTRAO
 AGGO      NOTO     
 AGGO      NYALE13S 
 HART15M   ISHIOKA  
-HART15M   MATERA   
 HART15M   NOTO     
 HART15M   NYALE13S 
 HART15M   ONSALA60 
@@ -41,7 +40,6 @@ ISHIOKA   WETTZELL
 ISHIOKA   YARRA12M 
 KOKEE     NOTO     
 KOKEE     NYALE13S 
-KOKEE     ONSALA60 
 KOKEE     SEJONG   
 KOKEE     VERAMZSW 
 MATERA    NOTO     
@@ -77,6 +75,7 @@ VERAMZSW  YARRA12M
 # Name: Sigrid Boehm
 # Date: 2023-12-06
 # Additional analysis comments (optional):
+# Update Peter Urban 19.12.2025
 
 
 # example

@@ -17,7 +17,6 @@ YEBES40M
 DSS26     NYALE13S 
 DSS26     SEJONG   
 DSS56     NYALE13S 
-FORTLEZA  HART15M  
 HART15M   NYALE13S 
 NYALE13S  ONSALA60 
 NYALE13S  SEJONG   
@@ -31,6 +30,7 @@ SEJONG    YEBES40M
 # Name: Lisa 
 # Date: 01-04-2025
 # Additional analysis comments (optional): FORTLEZA high scatter in residuals (down-weighting helps only slightly)
+# Update Peter Urban 19.12.2025
 
 
 # example

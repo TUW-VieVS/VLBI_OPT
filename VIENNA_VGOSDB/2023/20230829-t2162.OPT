@@ -10,9 +10,7 @@ NO CABLE CAL: 0
 OHIGGINS
 ONSALA60
 +BASELINE-DEPENDENT CLOCK OFFSET
-DSS56     SYOWA    
 NYALE13S  SEJONG   
-OHIGGINS  SYOWA    
 ONSALA60  SEJONG  
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
@@ -21,6 +19,7 @@ ONSALA60  SEJONG
 # Name: Lisa
 # Date: 17-01-2025
 # Additional analysis comments (optional): SYOWA signal in residuals of first solution
+# Update Peter Urban 19.12.2025
 
 
 # example
