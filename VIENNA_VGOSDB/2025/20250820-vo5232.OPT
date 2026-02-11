@@ -1,21 +1,23 @@
 # CLOCK REFERENCE:
 CLOCK BREAKS: 0
-STATIONS TO BE EXCLUDED: 1
+STATIONS TO BE EXCLUDED: 0
 HOBART12
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 0
+NO CABLE CAL: 2
 HOBART12
+KATH12M
 +BASELINE-DEPENDENT CLOCK OFFSET
 -BASELINE-DEPENDENT CLOCK OFFSET
 +CABLE CAL
 -CABLE CAL
 
-# Name: Andreas
-# Date: 2025-09-29
+# Name: Andreas, Hana Krasna
+# Date: 2025-09-29, 11-02-2026
 # Additional analysis comments (optional):
 # Pronounced residuals signature at HOBART12
+# HK: yes, but Hb can be left in the session
 
 
 # example

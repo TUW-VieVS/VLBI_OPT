@@ -5,10 +5,12 @@ KATH12M   60977.697228
 STATIONS TO BE EXCLUDED: 0
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
-STATIONS TO BE DOWN-WEIGHTED: 2
+STATIONS TO BE DOWN-WEIGHTED: 0
 HARTVGS   0.05
 YARRA12M  0.05
-NO CABLE CAL: 0
+NO CABLE CAL: 1
+YARRA12M   
+KATH12M   
 +BASELINE-DEPENDENT CLOCK OFFSET
 ISHIOKA   KATH12M  
 KATH12M   NYALE13N 
@@ -16,9 +18,9 @@ KATH12M   NYALE13N
 +CABLE CAL
 -CABLE CAL
 
-# Name: Sigrid Boehm
-# Date: 2025-11-17
-# Additional analysis comments (optional):
+# Name: Sigrid Boehm, Hana Krasna
+# Date: 2025-11-17, 2026-02-11
+# Additional analysis comments (optional): HK: results checked, downweighting does not help
 
 
 # example
