@@ -1,0 +1,11 @@
+CLOCK REFERENCE:
+NYALES20
+STATIONS TO BE EXCLUDED: 0
+YARRA12M    
+HOBART12
+BASELINES TO BE EXCLUDED: 1
+FORTLEZA  YARRA12M
+
+# Matthias Madzak, 4.1.2012
+# Lucia, 2.1.2015: no need to exclude Hb and Yg.
+# Caroline Schoenberger, 2016/02/24

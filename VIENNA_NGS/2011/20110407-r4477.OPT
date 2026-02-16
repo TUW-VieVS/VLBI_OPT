@@ -1,0 +1,12 @@
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS: 0
+STATIONS TO BE EXCLUDED: 1
+HOBART12
+BASELINES TO BE EXCLUDED: 0
+BADARY    HOBART12
+
+
+# Matthias Madzak, 2011-04-26
+# excluded baselines badary - hobart12
+# Caroline Schoenberger, 2016/02/23

@@ -1,0 +1,14 @@
+CLOCK BREAKS: 1
+HOBART12  55748.099144
+CLOCK REFERENCE:
+WETTZELL
+STATIONS TO BE EXCLUDED: 1
+YARRA12M
+
+
+# Sigrid Boehm, 2011-07-25
+# TIGO and KASHIM should be taken out of NNR/NNT
+# --> chi^2 can be reduced to 1.8 
+
+# Jing Sun, 5 Oct. 2012  
+# Lucia Plank, 27-3-2014, clock break Hb added

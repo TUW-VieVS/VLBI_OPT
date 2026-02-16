@@ -1,0 +1,44 @@
+CLOCK BREAKS: 1
+KATH12M   56434.007720
+WARK12M   56433.854676
+WARK12M   56434.122957
+CLOCK REFERENCE:
+WETTZELL
+STATIONS TO BE EXCLUDED: 1
+WARK12M
+WARK12M   56433.854676-56434.122957
+KATH12M   56433.854676-56434.122957
+WARK12M        
+BASELINES TO BE EXCLUDED: 0
+TIGOCONC WARK12M
+WARK12M  WETTZELL
+WARK12M  KATH12M
+SOURCES TO BE EXCLUDED: 1
+0308-611
+1324+224 1305211700-1305212200
+0059+581 1305212000-1305220100
+2000+472 1305212100-1305212200
+0229+131 1305220300-1305220800
+
+# Caroline Schoenberger, 2016/02/04
+
+# Name: Update David Mayer
+# Date: 2016-07-28
+# Additional analysis comments (optional):  
+
+# Name: David Mayer
+# Date: 2016-12-06
+# Additional analysis comments (optional): update: Sources removed according to Goddard list, WARK12M excluded
+
+# Johannes
+# only three stations left
+# Lucia, 15-5-2014: Ke, Ww not excluded, clock breaks added; many observations lost, hnce poor connection between the two hemispheres
+#CLOCK BREAKS:3
+#WARK12M   56433.854676
+#KATH12M   56434.122957
+#KATH12M   56434.122957
+#STATIONS TO BE EXCLUDED: 0
+#KATH12M      
+#WARK12M        
+#BASELINES TO BE EXCLUDED: 0
+#SOURCES TO BE EXCLUDED: 0

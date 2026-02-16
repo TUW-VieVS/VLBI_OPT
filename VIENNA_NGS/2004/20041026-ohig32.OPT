@@ -1,0 +1,10 @@
+CLOCK REFERENCE:
+KOKEE   
+STATIONS TO BE EXCLUDED: 1
+HARTRAO  0410261730-0410262300
+FORTLEZA
+
+# Tobias Nilsson, April 1, 2010
+# No sure, still high chi2 (2.4)
+# special parameterization: loose clock constr.
+# Caroline Schoenberger, 2016/02/22

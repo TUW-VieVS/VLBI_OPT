@@ -1,0 +1,13 @@
+CLOCK REFERENCE:
+WETTZELL
+CLOCK BREAKS:   0
+GILCREEK   53415.880
+GILCREEK   53416.060
+GILCREEK   53416.113
+GILCREEK   53416.466
+STATIONS TO BE EXCLUDED:   1
+GILCREEK
+
+# Johannes Boehm 12 April 2010
+# not sure Gilcreek has too many clockbreaks
+# outliers

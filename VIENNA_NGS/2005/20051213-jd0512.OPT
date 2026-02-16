@@ -1,0 +1,7 @@
+CLOCK REFERENCE:
+TSUKUB32 
+CLOCK BREAKS:  2
+VERAMZSW  53717.508
+VERAMZSW  53717.73
+# special parameterization: loose clock constraints for AIRA
+# Tobias Nilsson, June 2, 2010

@@ -1,0 +1,9 @@
+CLOCK REFERENCE:
+HARTRAO
+CLOCK BREAKS: 1
+KATH12M   55762.079032
+
+  
+# Claudia Tierno Ros, 3 Oct 2011
+# Only stations HARTRAO and KATH12M 
+# If you fix KATH12M chi2=268.672 (best I could manage), if you don't chi2=NaN

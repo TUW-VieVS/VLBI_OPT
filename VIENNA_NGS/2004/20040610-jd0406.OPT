@@ -1,0 +1,5 @@
+CLOCK BREAKS: 0
+CLOCK REFERENCE:
+TSUKUB32
+# Special parameterization: Loose clock constraints for AIRA
+# Tobias Nilsson, June 2, 2010
