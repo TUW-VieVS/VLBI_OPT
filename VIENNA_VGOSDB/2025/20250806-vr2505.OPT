@@ -1,12 +1,14 @@
-# CLOCK REFERENCE:
+CLOCK REFERENCE:
+GGAO12M   
 CLOCK BREAKS: 0
 STATIONS TO BE EXCLUDED: 0
 HOBART12
 BASELINES TO BE EXCLUDED: 0
 SOURCES TO BE EXCLUDED: 0
 STATIONS TO BE DOWN-WEIGHTED: 0
-NO CABLE CAL: 1
-HOBART12
+NO CABLE CAL: 2
+HOBART12 
+KATH12M   
 +BASELINE-DEPENDENT CLOCK OFFSET
 RAEGYEB   TIANMA13 
 SESHAN13  WETTZ13N 
@@ -14,11 +16,11 @@ SESHAN13  WETTZ13N
 +CABLE CAL
 -CABLE CAL
 
-# Name: Andreas
+# Name: Andreas, HK
 # Date: 2025-09-29
 # Additional analysis comments (optional):
 # Prononced signature in the residuals of HOBART12
-
+# HK: KATH12M cablecal off
 
 # example
 # =============================================
