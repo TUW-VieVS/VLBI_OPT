@@ -17,9 +17,9 @@ H. Krásná, L. Baldreich, J. Böhm, S. Böhm, J. Gruber, A. Hellerschmied, F. J
 As VieVS-VLBI, VieVS-VLBI_OPT is distributed under the GNU General Public License v3.0. You should have received a copy of the GNU General Public License along with this repository. If not, see http://www.gnu.org/licenses/.
 
 ## Usage
-The OPT-files are provided in two different directories: VIENNA_NGS and VIENNA_VGOSDB. The splitting is due to the historical evolution of the data format, but the format of the OPT-files is the same. VIENNA_NGS covers mainly, but not exclusively the first part of the observation history 1979-2000 and VIENNA_VGOSDB covers mainly, but not exclusively the later part from 2001-present.
+The OPT-files are provided in two different directories: VIENNA_NGS and VIENNA_VGOSDB. The splitting is due to the historical evolution of the data format, but the format of the OPT-files is the same. VIENNA_NGS covers mainly, but not exclusively the first part of the observation history 1979-2000. **VIENNA_NGS is obsolete from March 2026 because VIENNA_VGOSDB now covers the whole history of VLBI sessions from 1979-present**.
 
-You can clone VLBI_OPT into your VieVS directory and pull updates regularly or download the zip-file with the whole content. In the latter case just take the to VIENNA_* folders and copy them to your probably already existing VLBI_OPT directory (if you don't have it yet, VieVS-VLBI will create it when you first start the GUI by running 'vievs' in MATLAB).
+You can clone VLBI_OPT into your VieVS directory and pull updates regularly or download the zip-file with the whole content. In the latter case just take the two VIENNA_* folders and copy them to your probably already existing VLBI_OPT directory (if you don't have it yet, VieVS-VLBI will create it when you first start the GUI by running 'vievs' in MATLAB).
 
 If you think you discovered an error in an OPT-file, please inform Sigrid Böhm.
 
